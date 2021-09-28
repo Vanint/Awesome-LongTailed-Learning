@@ -60,7 +60,27 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Video-LT]() | ICCV  | 2021 | `Sampling`     |       | 
+[Balanced Meta-Softmax]() | NeurIPS  | 2020 | `Sampling`,`CSL`     |       | 
+[UNO-IC]() | NeurIPS  | 2020 | `LA`     |       | 
+[De-confound-TDE]() | NeurIPS  | 2020 | `LA`,`CD`     |       | 
+[SSP]() | NeurIPS  | 2020 | `TL`,`RA`     |       | 
+[SimCal]() | ECCV  | 2020 | `Sampling`,`DT`,`Ensemble`     |       |
+[PRS]() | ECCV  | 2020 | `Sampling`      |       |
+[Distribution-balanced loss]() | ECCV  | 2020 | `CSL`     |       |
+[OFA]() | ECCV  | 2020 | `TL`,`Aug`,`DT`     |       |
+[LFME]() | ECCV  | 2020 | `TL`,`Ensemble`     |       |
+[Deep-RTC]() | ECCV  | 2020 | `CD`     |       |
+[LST]() | CVPR  | 2020 | `Sampling`,`TL`     |       |
+[BBN]() | CVPR  | 2020 | `Sampling`,`Ensemble`     |       |
+[BAGS]() | CVPR  | 2020 | `Sampling`,`Ensemble`     |       |
+[Domain adaptation]() | CVPR  | 2020 | `CSL`     |       |
+[Equalization loss]() | CVPR  | 2020 | `CSL`     |       |
+[DBM]() | CVPR  | 2020 | `CSL`     |       |
+[M2m]() | CVPR  | 2020 | `TL`,`Aug`     |       |
+[LEAP]() | CVPR  | 2020 | `TL`,`Aug`,`RL`     |       |
+[IEM]() | CVPR  | 2020 | `RL`     |       |
+[Decoupling]() | ICLR  | 2020 | `Sampling`,`CSL`,`RL`,`CD`,`DT`     |       |
+
 
 ### 2019
 
@@ -68,7 +88,12 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Meta-Weight-Net]() | NeurIPS  | 2019 | `CSL`     |       | 
 [LDAM]() | NeurIPS  | 2019 | `CSL`     |       | 
-[DCL]() | ICCV  | 2019 | `Sampling`     |       | 
+[DCL]() | ICCV  | 2019 | `Sampling`     |       |
+[CB]() | CVPR  | 2019 | `CSL`     |       |
+[Bayesian estimate]() | CVPR  | 2019 | `CSL`     |       |
+[FTL]() | CVPR  | 2019 | `TL`,`Aug`     |       |
+[Unequal-training]() | CVPR  | 2019 | `RL`     |       |
+[OLTR]() | CVPR  | 2019 | `RL`     |       |
 
 ### 2018
 
