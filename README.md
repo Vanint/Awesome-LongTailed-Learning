@@ -25,10 +25,10 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Video-LT]() | ICCV  | 2021 | `Sampling`     |       | 
-[LOCE]() | ICCV  | 2021 | `Sampling`, `CSL`     |       |  
-[GIST]() | ICCV  | 2021 | `Sampling`, `TL`, `DC`      |       |  
-[FASA]() | ICCV  | 2021 | `Sampling`, `CSL`     |       |  
-[ACE]() | ICCV  | 2021 | `Sampling`, `Ensemble`     |       |  
+[LOCE]() | ICCV  | 2021 | `Sampling`,`CSL`     |       |  
+[GIST]() | ICCV  | 2021 | `Sampling`,`TL`, `DC`      |       |  
+[FASA]() | ICCV  | 2021 | `Sampling`,`CSL`     |       |  
+[ACE]() | ICCV  | 2021 | `Sampling`,`Ensemble`     |       |  
 [DARS]() | ICCV  | 2021 | `TL`     |       |  
 [SSD]() | ICCV  | 2021 | `TL`     |       |  
 [DiVE]() | ICCV  | 2021 | `TL`     |       |  
@@ -36,10 +36,61 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [PaCo]() | ICCV  | 2021 | `RL`     |       |  
 [DRO-LT]() | ICCV  | 2021 | `RL`     |       | 
 [DT2]() | ICCV  | 2021 | `DT`     |       |  
-[Delving into Deep Imbalanced Regression]() | ICML  | 2021 | `Other`     |    [Official](https://github.com/YyzHarry/imbalanced-regression.)   |  
-[LTML]() | CVPR  | 2021 | `Sampling`, `Ensemble` |       | 
-[Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR  | 2021 | `CLW`     | Official    | 
+[Delving into Deep Imbalanced Regression](https://arxiv.org/pdf/2102.09554.pdf) | ICML  | 2021 | `Other`     |    [Official](https://github.com/YyzHarry/imbalanced-regression)   |  
+[LTML]() | CVPR  | 2021 | `Sampling`,`Ensemble` |       |
+[Equalization loss v2]() | CVPR  | 2021 | `CSL`  |       | 
+[Seesaw loss]() | CVPR  | 2021 | `CSL`  |       | 
+[ACSL]() | CVPR  | 2021 | `CSL`  |       | 
+[PML]() | CVPR  | 2021 | `CSL`  |       | 
+[LADE]() | CVPR  | 2021 | `CSL`,`LA`  |       | 
+[RoBal]() | CVPR  | 2021 | `CSL`,`LA`,`CD`  |       | 
+[DisAlign]() | CVPR  | 2021 | `CSL`,`LA`,`DT`  |       | 
+[MiSLAS]() | CVPR  | 2021 | `CSL`,`Aug`,`DT`  |       | 
+[CReST]() | CVPR  | 2021 | `TL`  |       | 
+[Conceptual 12M]() | CVPR  | 2021 | `TL`  |       | 
+[RSG]() | CVPR  | 2021 | `TL`,`Aug`  |       |
+[MetaSAug]() | CVPR  | 2021 | `Aug`  |       |
+[Hybrid]() | CVPR  | 2021 | `RL`  |       |  
+[Unsupervised discovery]() | CVPR  | 2021 | `RL`  |       |  
+[Long-Tail Learning via Logit Adjustment](https://openreview.net/pdf?id=37nvvqkCo5) | ICLR  | 2021 | `LA`     | Official    | 
+[RIDE]() | ICLR  | 2021 | `TL`,`Ensemble`  |       |  
+[KCL]() | ICLR  | 2021 | `RL`,`DT`  |       |  
 
+### 2020
+
+| Title    | Venue    | Year | Type     | Code     | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[Video-LT]() | ICCV  | 2021 | `Sampling`     |       | 
+
+### 2019
+
+| Title    | Venue    | Year | Type     | Code     | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[Meta-Weight-Net]() | NeurIPS  | 2019 | `CSL`     |       | 
+[LDAM]() | NeurIPS  | 2019 | `CSL`     |       | 
+[DCL]() | ICCV  | 2019 | `Sampling`     |       | 
+
+### 2018
+
+| Title    | Venue    | Year | Type     | Code     | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[DSTL]() | CVPR  | 2018 | `TL`     |       | 
+
+### 2017
+
+| Title    | Venue    | Year | Type     | Code     | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[MetaModelNet]() | NeurIPS  | 2017 | `CSL`     |       | 
+[Focal loss]() | ICCV  | 2017 | `CSL`     |       | 
+[Range loss]() | ICCV  | 2017 | `RL`     |       | 
+[CRL]() | ICCV  | 2017 | `RL`     |       | 
+
+### 2016
+
+| Title    | Venue    | Year | Type     | Code     | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[LMLE]() | CVPR  | 2016 | `Sampling`,`RL`     |       | 
+[HFL]() | CVPR  | 2016 | `CSL`,`RL`     |       | 
 
 ## Citing this work 
 
