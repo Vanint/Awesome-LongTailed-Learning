@@ -10,7 +10,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 ## Type of Long-tailed Learning
 
-| Symbol    | `Re-sampling`          | `CSL`           | `LA`                   | `TL`                 | `Aug`                  | 
+| Symbol    | `Sampling`          | `CSL`           | `LA`                   | `TL`                 | `Aug`                  | 
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
 | Type | Re-Sampling | Cost-sensitive Learning | Logit Adjustment | Transfer Learning | Data Augmentation | 
 
