@@ -16,7 +16,30 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 | Symbol    | `RL`          | `CD`           | `DT`                   | `Ensemble`                 | `other`                  | 
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
-| Type | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other types | 
+| Type | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other Types | 
+
+## Papers
+
+### 2021
+
+| Title    | Venue    | Year | Type     | Code     | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[Video-LT]() | ICCV  | 2021 | `Sampling`     |       | 
+[LOCE]() | ICCV  | 2021 | `Sampling`, `CSL`     |       |  
+[GIST]() | ICCV  | 2021 | `Sampling`, `TL`, `DC`      |       |  
+[FASA]() | ICCV  | 2021 | `Sampling`, `CSL`     |       |  
+[ACE]() | ICCV  | 2021 | `Sampling`, `Ensemble`     |       |  
+[DARS]() | ICCV  | 2021 | `TL`     |       |  
+[SSD]() | ICCV  | 2021 | `TL`     |       |  
+[DiVE]() | ICCV  | 2021 | `TL`     |       |  
+[MosaicOS]() | ICCV  | 2021 | `TL`     |       |  
+[PaCo]() | ICCV  | 2021 | `RL`     |       |  
+[DRO-LT]() | ICCV  | 2021 | `RL`     |       | 
+[DT2]() | ICCV  | 2021 | `DT`     |       |  
+[Delving into Deep Imbalanced Regression]() | ICML  | 2021 | `Other`     |    [Official](https://github.com/YyzHarry/imbalanced-regression.)   |  
+[LTML]() | CVPR  | 2021 | `Sampling`, `Ensemble` |       | 
+[Long-Tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR  | 2021 | `CLW`     | Official    | 
+
 
 ## Citing this work 
 
