@@ -12,7 +12,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 | Symbol    | `Sampling`          | `CSL`           | `LA`                   | `TL`                 | `Aug`                  | 
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
-| Type | Re-Sampling | Cost-sensitive Learning | Logit Adjustment | Transfer Learning | Data Augmentation | 
+| Type | Re-sampling | Cost-sensitive Learning | Logit Adjustment | Transfer Learning | Data Augmentation | 
 
 | Symbol    | `RL`          | `CD`           | `DT`                   | `Ensemble`                 | `other`                  | 
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
@@ -24,37 +24,37 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Video-LT]() | ICCV  | 2021 | `Sampling`     |       | 
-[LOCE]() | ICCV  | 2021 | `Sampling`,`CSL`     |       |  
-[GIST]() | ICCV  | 2021 | `Sampling`,`TL`, `DC`      |       |  
-[FASA]() | ICCV  | 2021 | `Sampling`,`CSL`     |       |  
-[ACE]() | ICCV  | 2021 | `Sampling`,`Ensemble`     |       |  
-[DARS]() | ICCV  | 2021 | `TL`     |       |  
-[SSD]() | ICCV  | 2021 | `TL`     |       |  
-[DiVE]() | ICCV  | 2021 | `TL`     |       |  
-[MosaicOS]() | ICCV  | 2021 | `TL`     |       |  
-[PaCo]() | ICCV  | 2021 | `RL`     |       |  
-[DRO-LT]() | ICCV  | 2021 | `RL`     |       | 
-[DT2]() | ICCV  | 2021 | `DT`     |       |  
+[VideoLT: Large-scale long-tailed video recognition](https://arxiv.org/pdf/2105.02668.pdf) | ICCV  | 2021 | `Sampling`     |    [Official](https://github.com/17Skye17/VideoLT)   | 
+[Exploring classification equilibrium in long-tailed object detection](https://arxiv.org/pdf/2108.07507.pdf) | ICCV  | 2021 | `Sampling`,`CSL`     |     [Official](https://github.com/fcjian/LOCE)  |  
+[GistNet: a geometric structure transfer network for long-tailed recognition](https://arxiv.org/pdf/2105.00131.pdf) | ICCV  | 2021 | `Sampling`,`TL`, `DC`      |       |  
+[FASA: Feature augmentation and sampling adaptation for long-tailed instance segmentation](https://arxiv.org/pdf/2102.12867.pdf) | ICCV  | 2021 | `Sampling`,`CSL`     |       |  
+[ACE: Ally complementary experts for solving long-tailed recognition in one-shot](https://arxiv.org/pdf/2108.02385.pdf) | ICCV  | 2021 | `Sampling`,`Ensemble`     |   [Official](https://github.com/jrcai/ACE?utm_source=catalyzex.com)     |  
+[Re-distributing biased pseudo labels for semi-supervised semantic segmentation: A baseline investigation](https://arxiv.org/pdf/2107.11279.pdf) | ICCV  | 2021 | `TL`     |    [Official](https://github.com/CVMI-Lab/DARS)   |  
+[Self supervision to distillation for long-tailed visual recognition](https://arxiv.org/pdf/2109.04075.pdf) | ICCV  | 2021 | `TL`     |    [Official](https://github.com/MCG-NJU/SSD-LT)     |  
+[Distilling virtual examples for long-tailed recognition](https://cs.nju.edu.cn/wujx/paper/ICCV2021_DiVE.pdf) | ICCV  | 2021 | `TL`     |       |  
+[MosaicOS: A simple and effective use of object-centric images for long-tailed object detection](https://arxiv.org/pdf/2102.08884.pdf) | ICCV  | 2021 | `TL`     |   [Official](https://github.com/czhang0528/MosaicOS/)      |  
+[Parametric contrastive learning](https://arxiv.org/pdf/2107.12028.pdf) | ICCV  | 2021 | `RL`     |     [Official](https://github.com/dvlab-research/Parametric-Contrastive-Learning)     |  
+[Distributional robustness loss for long-tail learning](https://arxiv.org/pdf/2104.03066.pdf) | ICCV  | 2021 | `RL`     |     [Official](https://github.com/dvirsamuel/DRO-LT)      | 
+[Learning of visual relations: The devil is in the tails](https://arxiv.org/pdf/2108.09668.pdf) | ICCV  | 2021 | `DT`     |       |  
 [Delving into deep imbalanced regression](https://arxiv.org/pdf/2102.09554.pdf) | ICML  | 2021 | `Other`     |    [Official](https://github.com/YyzHarry/imbalanced-regression)   |  
-[LTML]() | CVPR  | 2021 | `Sampling`,`Ensemble` |       |
-[Equalization loss v2]() | CVPR  | 2021 | `CSL`  |       | 
-[Seesaw loss]() | CVPR  | 2021 | `CSL`  |       | 
-[ACSL]() | CVPR  | 2021 | `CSL`  |       | 
-[PML]() | CVPR  | 2021 | `CSL`  |       | 
-[LADE]() | CVPR  | 2021 | `CSL`,`LA`  |       | 
+[Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf) | CVPR  | 2021 | `Sampling`,`Ensemble` |       |
+[Equalization loss v2: A new gradient balance approach for long-tailed object detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_Equalization_Loss_v2_A_New_Gradient_Balance_Approach_for_Long-Tailed_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`  |    [Official](https://github.com/tztztztztz/eqlv2)    | 
+[Seesaw loss for long-tailed instance segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Seesaw_Loss_for_Long-Tailed_Instance_Segmentation_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`  |    [Official](https://github.com/open-mmlab/mmdetection)   | 
+[Adaptive class suppression loss for long-tail object detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Adaptive_Class_Suppression_Loss_for_Long-Tail_Object_Detection_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`  |      [Official](https://github.com/CASIA-IVA-Lab/ACSL)      | 
+[PML: Progressive margin loss for long-tailed age classification](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_PML_Progressive_Margin_Loss_for_Long-Tailed_Age_Classification_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`  |       | 
+[Disentangling label distribution for long-tailed visual recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Disentangling_Label_Distribution_for_Long-Tailed_Visual_Recognition_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`,`LA`  |   [Official](https://github.com/hyperconnect/LADE)      | 
 [Adversarial robustness under long-tailed distribution](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Adversarial_Robustness_Under_Long-Tailed_Distribution_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`,`LA`,`CD`  |    [Official](https://github.com/wutong16/Adversarial_Long-Tail)     | 
-[DisAlign]() | CVPR  | 2021 | `CSL`,`LA`,`DT`  |       | 
-[MiSLAS]() | CVPR  | 2021 | `CSL`,`Aug`,`DT`  |       | 
-[CReST]() | CVPR  | 2021 | `TL`  |       | 
-[Conceptual 12M]() | CVPR  | 2021 | `TL`  |       | 
-[RSG]() | CVPR  | 2021 | `TL`,`Aug`  |       |
-[MetaSAug]() | CVPR  | 2021 | `Aug`  |       |
-[Hybrid]() | CVPR  | 2021 | `RL`  |       |  
-[Unsupervised discovery]() | CVPR  | 2021 | `RL`  |       |  
-[Long-tail learning via logit adjustment](https://openreview.net/pdf?id=37nvvqkCo5) | ICLR  | 2021 | `LA`     | Official    | 
-[RIDE]() | ICLR  | 2021 | `TL`,`Ensemble`  |       |  
-[KCL]() | ICLR  | 2021 | `RL`,`DT`  |       |  
+[Distribution alignment: A unified framework for long-tail visual recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distribution_Alignment_A_Unified_Framework_for_Long-Tail_Visual_Recognition_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`,`LA`,`DT`  |    [Official](https://github.com/Megvii-BaseDetection/DisAlign)   | 
+[Improving calibration for long-tailed recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`,`Aug`,`DT`  |      [Official](https://github.com/dvlab-research/MiSLAS) | 
+[CReST: A classrebalancing self-training framework for imbalanced semi-supervised learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_CReST_A_Class-Rebalancing_Self-Training_Framework_for_Imbalanced_Semi-Supervised_Learning_CVPR_2021_paper.pdf) | CVPR  | 2021 | `TL`  |  [Official](https://github.com/google-research/crest)        | 
+[Conceptual 12M: Pushing web-scale image-text pre-training to recognize long-tail visual concepts](https://openaccess.thecvf.com/content/CVPR2021/papers/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.pdf) | CVPR  | 2021 | `TL`  |    [Official](https://github.com/google-research-datasets/conceptual-12m)     | 
+[RSG: A simple but effective module for learning imbalanced datasets](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_RSG_A_Simple_CVPR_2021_supplemental.pdf) | CVPR  | 2021 | `TL`,`Aug`  |    [Official](https://github.com/Jianf-Wang/RSG)   |
+[MetaSAug: Meta semantic augmentation for long-tailed visual recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_MetaSAug_Meta_Semantic_Augmentation_for_Long-Tailed_Visual_Recognition_CVPR_2021_paper.pdf) | CVPR  | 2021 | `Aug`  |      [Official](https://github.com/BIT-DA/MetaSAug)    |
+[Contrastive learning based hybrid networks for long-tailed image classification](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Contrastive_Learning_Based_Hybrid_Networks_for_Long-Tailed_Image_Classification_CVPR_2021_paper.pdf) | CVPR  | 2021 | `RL`  |       |  
+[Unsupervised discovery of the long-tail in instance segmentation using hierarchical self-supervision](https://openaccess.thecvf.com/content/CVPR2021/papers/Weng_Unsupervised_Discovery_of_the_Long-Tail_in_Instance_Segmentation_Using_Hierarchical_CVPR_2021_paper.pdf) | CVPR  | 2021 | `RL`  |       |  
+[Long-tail learning via logit adjustment](https://openreview.net/pdf?id=37nvvqkCo5) | ICLR  | 2021 | `LA`     | [Official](https://github.com/google-research/google-research/tree/master/logit_adjustment)    | 
+[Long-tailed recognition by routing diverse distribution-aware experts](https://openreview.net/pdf?id=D9I3drBz4UC) | ICLR  | 2021 | `TL`,`Ensemble`  |  [Official](https://github.com/frank-xwang/RIDE-LongTailRecognition)      |  
+[Exploring balanced feature spaces for representation learning](https://openreview.net/pdf?id=OqtLIabPTit) | ICLR  | 2021 | `RL`,`DT`  |       |  
 
 ### 2020
 
