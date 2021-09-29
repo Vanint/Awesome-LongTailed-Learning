@@ -125,7 +125,7 @@ If this repository is helpful to you, please cite our survey.
 @article{zhang2021deep,
     title={Deep Long-Tailed Learning: A Survey},
     author={Zhang, Yifan and Kang, Bingyi and Hooi, Bryan and Yan, Shuicheng and Feng, Jiashi},
-    journal={arXiv preprint},
+    journal={arXiv},
     year={2021}
 }
 ```
