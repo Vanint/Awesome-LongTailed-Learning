@@ -60,10 +60,10 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Balanced Meta-Softmax]() | NeurIPS  | 2020 | `Sampling`,`CSL`     |       | 
-[UNO-IC]() | NeurIPS  | 2020 | `LA`     |       | 
-[De-confound-TDE]() | NeurIPS  | 2020 | `LA`,`CD`     |       | 
-[SSP]() | NeurIPS  | 2020 | `TL`,`RA`     |       | 
+[Balanced meta-softmax for long-taield visual recognition](https://proceedings.neurips.cc/paper/2020/file/2ba61cc3a8f44143e1f2f13b2b729ab3-Paper.pdf) | NeurIPS  | 2020 | `Sampling`,`CSL`     |       [Official](https://github.com/jiawei-ren/BalancedMetaSoftmax)   | 
+[Posterior recalibration for imbalanced datasets](https://proceedings.neurips.cc/paper/2020/file/5ca359ab1e9e3b9c478459944a2d9ca5-Paper.pdf) | NeurIPS  | 2020 | `LA`     |   [Official](https://github.com/GT-RIPL/UNO-IC)    | 
+[Long-tailed classification by keeping the good and removing the bad momentum causal effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) | NeurIPS  | 2020 | `LA`,`CD`     |     [Official](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)  | 
+[Rethinking the value of labels for improving classimbalanced learning](https://proceedings.neurips.cc/paper/2020/file/e025b6279c1b88d3ec0eca6fcb6e6280-Paper.pdf) | NeurIPS  | 2020 | `TL`,`RA`     |   [Official](https://github.com/YyzHarry/imbalanced-semi-self)    | 
 [SimCal]() | ECCV  | 2020 | `Sampling`,`DT`,`Ensemble`     |       |
 [PRS]() | ECCV  | 2020 | `Sampling`      |       |
 [Distribution-balanced loss]() | ECCV  | 2020 | `CSL`     |       |
@@ -71,15 +71,15 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [LFME]() | ECCV  | 2020 | `TL`,`Ensemble`     |       |
 [Deep-RTC]() | ECCV  | 2020 | `CD`     |       |
 [Learning to segment the tail](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Learning_to_Segment_the_Tail_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`TL`     |   [Official](https://github.com/JoyHuYY1412/LST_LVIS)    |
-[BBN]() | CVPR  | 2020 | `Sampling`,`Ensemble`     |       |
-[BAGS]() | CVPR  | 2020 | `Sampling`,`Ensemble`     |       |
-[Domain adaptation]() | CVPR  | 2020 | `CSL`     |       |
-[Equalization loss]() | CVPR  | 2020 | `CSL`     |       |
-[DBM]() | CVPR  | 2020 | `CSL`     |       |
-[M2m]() | CVPR  | 2020 | `TL`,`Aug`     |       |
-[LEAP]() | CVPR  | 2020 | `TL`,`Aug`,`RL`     |       |
-[IEM]() | CVPR  | 2020 | `RL`     |       |
-[Decoupling]() | ICLR  | 2020 | `Sampling`,`CSL`,`RL`,`CD`,`DT`     |       |
+[BBN: Bilateral-branch network with cumulative learning for long-tailed visual recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`Ensemble`     |    [Official](https://github.com/Megvii-Nanjing/BBN)    |
+[Overcoming classifier imbalance for long-tail object detection with balanced group softmax](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`Ensemble`     |   [Official](https://github.com/FishYuLi/BalancedGroupSoftmax)     |
+[Rethinking class-balanced methods for long-tailed visual recognition from a domain adaptation perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf) | CVPR  | 2020 | `CSL`     |  [Official](https://github.com/abdullahjamal/Longtail_DA)      |
+[Equalization loss for long-tailed object recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tan_Equalization_Loss_for_Long-Tailed_Object_Recognition_CVPR_2020_paper.pdf) | CVPR  | 2020 | `CSL`     |    [Official](https://github.com/tztztztztz/eqlv2)       |
+[Domain balancing: Face recognition on long-tailed domains](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Domain_Balancing_Face_Recognition_on_Long-Tailed_Domains_CVPR_2020_paper.pdf) | CVPR  | 2020 | `CSL`     |       |
+[M2m: Imbalanced classification via majorto-minor translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf) | CVPR  | 2020 | `TL`,`Aug`     |    [Official](https://github.com/alinlab/M2m)        |
+[Deep representation learning on long-tailed data: A learnable embedding augmentation perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf) | CVPR  | 2020 | `TL`,`Aug`,`RL`     |       |
+[Inflated episodic memory with region self-attention for long-tailed visual recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR  | 2020 | `RL`     |       |
+[Decoupling representation and classifier for long-tailed recognition](https://openreview.net/pdf?id=r1gRTCVFvB) | ICLR  | 2020 | `Sampling`,`CSL`,`RL`,`CD`,`DT`     |    [Official](https://github.com/facebookresearch/classifier-balancing)      |
 
 
 ### 2019
@@ -87,7 +87,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Meta-weight-net: Learning an explicit mapping for sample weighting](https://proceedings.neurips.cc/paper/2019/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf) | NeurIPS  | 2019 | `CSL`     |   [Official](https://github.com/xjtushujun/meta-weight-net)       | 
-[LDAM]() | NeurIPS  | 2019 | `CSL`     |       | 
+[Learning imbalanced datasets with label-distribution-aware margin loss](https://proceedings.neurips.cc/paper/2019/file/621461af90cadfdaf0e8d4cc25129f91-Paper.pdf) | NeurIPS  | 2019 | `CSL`     |    [Official](https://github.com/kaidic/LDAM-DRW)       | 
 [Dynamic curriculum learning for imbalanced data classification](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Dynamic_Curriculum_Learning_for_Imbalanced_Data_Classification_ICCV_2019_paper.pdf) | ICCV  | 2019 | `Sampling`     |       |
 [Class-balanced loss based on effective number of samples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf) | CVPR  | 2019 | `CSL`     |   [Official](https://github.com/richardaecn/class-balanced-loss)    |
 [Striking the right balance with uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.pdf) | CVPR  | 2019 | `CSL`     |       |
