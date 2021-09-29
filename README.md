@@ -64,12 +64,12 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [Posterior recalibration for imbalanced datasets](https://proceedings.neurips.cc/paper/2020/file/5ca359ab1e9e3b9c478459944a2d9ca5-Paper.pdf) | NeurIPS  | 2020 | `LA`     |   [Official](https://github.com/GT-RIPL/UNO-IC)    | 
 [Long-tailed classification by keeping the good and removing the bad momentum causal effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) | NeurIPS  | 2020 | `LA`,`CD`     |     [Official](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)  | 
 [Rethinking the value of labels for improving classimbalanced learning](https://proceedings.neurips.cc/paper/2020/file/e025b6279c1b88d3ec0eca6fcb6e6280-Paper.pdf) | NeurIPS  | 2020 | `TL`,`RA`     |   [Official](https://github.com/YyzHarry/imbalanced-semi-self)    | 
-[SimCal]() | ECCV  | 2020 | `Sampling`,`DT`,`Ensemble`     |       |
-[PRS]() | ECCV  | 2020 | `Sampling`      |       |
-[Distribution-balanced loss]() | ECCV  | 2020 | `CSL`     |       |
-[OFA]() | ECCV  | 2020 | `TL`,`Aug`,`DT`     |       |
-[LFME]() | ECCV  | 2020 | `TL`,`Ensemble`     |       |
-[Deep-RTC]() | ECCV  | 2020 | `CD`     |       |
+[The devil is in classification: A simple framework for long-tail instance segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590715.pdf) | ECCV  | 2020 | `Sampling`,`DT`,`Ensemble`     |    [Official](https://github.com/twangnh/SimCal)   |
+[Imbalanced continual learning with partitioning reservoir sampling](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580409.pdf) | ECCV  | 2020 | `Sampling`      |    [Official](https://github.com/cdjkim/PRS)   |
+[Distribution-balanced loss for multi-label classification in long-tailed datasets](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490154.pdf) | ECCV  | 2020 | `CSL`     |    [Official](https://github.com/wutong16/DistributionBalancedLoss)      |
+[Feature space augmentation for long-tailed data](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740681.pdf) | ECCV  | 2020 | `TL`,`Aug`,`DT`     |       |
+[Learning from multiple experts: Self-paced knowledge distillation for long-tailed classification](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500239.pdf) | ECCV  | 2020 | `TL`,`Ensemble`     |  [Official](https://github.com/xiangly55/LFME)      |
+[Solving long-tailed recognition with deep realistic taxonomic classifier](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530171.pdf) | ECCV  | 2020 | `CD`     |  [Official](https://github.com/gina9726/Deep-RTC)     |
 [Learning to segment the tail](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Learning_to_Segment_the_Tail_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`TL`     |   [Official](https://github.com/JoyHuYY1412/LST_LVIS)    |
 [BBN: Bilateral-branch network with cumulative learning for long-tailed visual recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`Ensemble`     |    [Official](https://github.com/Megvii-Nanjing/BBN)    |
 [Overcoming classifier imbalance for long-tail object detection with balanced group softmax](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`Ensemble`     |   [Official](https://github.com/FishYuLi/BalancedGroupSoftmax)     |
