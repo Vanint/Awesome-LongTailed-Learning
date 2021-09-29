@@ -129,3 +129,8 @@ If this repository is helpful to you, please cite our survey.
     year={2021}
 }
 ```
+
+## Other Resources
+
+- [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
+- [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
