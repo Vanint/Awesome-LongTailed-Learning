@@ -36,14 +36,14 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [PaCo]() | ICCV  | 2021 | `RL`     |       |  
 [DRO-LT]() | ICCV  | 2021 | `RL`     |       | 
 [DT2]() | ICCV  | 2021 | `DT`     |       |  
-[Delving into Deep Imbalanced Regression](https://arxiv.org/pdf/2102.09554.pdf) | ICML  | 2021 | `Other`     |    [Official](https://github.com/YyzHarry/imbalanced-regression)   |  
+[Delving into deep imbalanced regression](https://arxiv.org/pdf/2102.09554.pdf) | ICML  | 2021 | `Other`     |    [Official](https://github.com/YyzHarry/imbalanced-regression)   |  
 [LTML]() | CVPR  | 2021 | `Sampling`,`Ensemble` |       |
 [Equalization loss v2]() | CVPR  | 2021 | `CSL`  |       | 
 [Seesaw loss]() | CVPR  | 2021 | `CSL`  |       | 
 [ACSL]() | CVPR  | 2021 | `CSL`  |       | 
 [PML]() | CVPR  | 2021 | `CSL`  |       | 
 [LADE]() | CVPR  | 2021 | `CSL`,`LA`  |       | 
-[RoBal]() | CVPR  | 2021 | `CSL`,`LA`,`CD`  |       | 
+[Adversarial robustness under long-tailed distribution](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Adversarial_Robustness_Under_Long-Tailed_Distribution_CVPR_2021_paper.pdf) | CVPR  | 2021 | `CSL`,`LA`,`CD`  |    [Official](https://github.com/wutong16/Adversarial_Long-Tail)     | 
 [DisAlign]() | CVPR  | 2021 | `CSL`,`LA`,`DT`  |       | 
 [MiSLAS]() | CVPR  | 2021 | `CSL`,`Aug`,`DT`  |       | 
 [CReST]() | CVPR  | 2021 | `TL`  |       | 
@@ -52,7 +52,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [MetaSAug]() | CVPR  | 2021 | `Aug`  |       |
 [Hybrid]() | CVPR  | 2021 | `RL`  |       |  
 [Unsupervised discovery]() | CVPR  | 2021 | `RL`  |       |  
-[Long-Tail Learning via Logit Adjustment](https://openreview.net/pdf?id=37nvvqkCo5) | ICLR  | 2021 | `LA`     | Official    | 
+[Long-tail learning via logit adjustment](https://openreview.net/pdf?id=37nvvqkCo5) | ICLR  | 2021 | `LA`     | Official    | 
 [RIDE]() | ICLR  | 2021 | `TL`,`Ensemble`  |       |  
 [KCL]() | ICLR  | 2021 | `RL`,`DT`  |       |  
 
@@ -70,7 +70,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [OFA]() | ECCV  | 2020 | `TL`,`Aug`,`DT`     |       |
 [LFME]() | ECCV  | 2020 | `TL`,`Ensemble`     |       |
 [Deep-RTC]() | ECCV  | 2020 | `CD`     |       |
-[LST]() | CVPR  | 2020 | `Sampling`,`TL`     |       |
+[Learning to segment the tail](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Learning_to_Segment_the_Tail_CVPR_2020_paper.pdf) | CVPR  | 2020 | `Sampling`,`TL`     |   [Official](https://github.com/JoyHuYY1412/LST_LVIS)    |
 [BBN]() | CVPR  | 2020 | `Sampling`,`Ensemble`     |       |
 [BAGS]() | CVPR  | 2020 | `Sampling`,`Ensemble`     |       |
 [Domain adaptation]() | CVPR  | 2020 | `CSL`     |       |
@@ -86,36 +86,36 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Meta-Weight-Net]() | NeurIPS  | 2019 | `CSL`     |       | 
+[Meta-weight-net: Learning an explicit mapping for sample weighting](https://proceedings.neurips.cc/paper/2019/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf) | NeurIPS  | 2019 | `CSL`     |   [Official](https://github.com/xjtushujun/meta-weight-net)       | 
 [LDAM]() | NeurIPS  | 2019 | `CSL`     |       | 
-[DCL]() | ICCV  | 2019 | `Sampling`     |       |
-[CB]() | CVPR  | 2019 | `CSL`     |       |
-[Bayesian estimate]() | CVPR  | 2019 | `CSL`     |       |
-[FTL]() | CVPR  | 2019 | `TL`,`Aug`     |       |
-[Unequal-training]() | CVPR  | 2019 | `RL`     |       |
-[OLTR]() | CVPR  | 2019 | `RL`     |       |
+[Dynamic curriculum learning for imbalanced data classification](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Dynamic_Curriculum_Learning_for_Imbalanced_Data_Classification_ICCV_2019_paper.pdf) | ICCV  | 2019 | `Sampling`     |       |
+[Class-balanced loss based on effective number of samples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf) | CVPR  | 2019 | `CSL`     |   [Official](https://github.com/richardaecn/class-balanced-loss)    |
+[Striking the right balance with uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.pdf) | CVPR  | 2019 | `CSL`     |       |
+[Feature transfer learning for face recognition with under-represented data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Feature_Transfer_Learning_for_Face_Recognition_With_Under-Represented_Data_CVPR_2019_paper.pdf) | CVPR  | 2019 | `TL`,`Aug`     |       |
+[Unequal-training for deep face recognition with long-tailed noisy data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf) | CVPR  | 2019 | `RL`     |  [Official](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)      |
+[Large-scale long-tailed recognition in an open world](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf) | CVPR  | 2019 | `RL`     |   [Official](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)     |
 
 ### 2018
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[DSTL]() | CVPR  | 2018 | `TL`     |       | 
+[Large scale fine-grained categorization and domain-specific transfer learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cui_Large_Scale_Fine-Grained_CVPR_2018_paper.pdf) | CVPR  | 2018 | `TL`     |   [Official](https://github.com/richardaecn/cvpr18-inaturalist-transfer)      | 
 
 ### 2017
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[MetaModelNet]() | NeurIPS  | 2017 | `CSL`     |       | 
-[Focal loss]() | ICCV  | 2017 | `CSL`     |       | 
-[Range loss]() | ICCV  | 2017 | `RL`     |       | 
-[CRL]() | ICCV  | 2017 | `RL`     |       | 
+[Learning to model the tail](https://proceedings.neurips.cc/paper/2017/file/147ebe637038ca50a1265abac8dea181-Paper.pdf) | NeurIPS  | 2017 | `CSL`     |       | 
+[Focal loss for dense object detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) | ICCV  | 2017 | `CSL`     |       | 
+[Range loss for deep face recognition with long-tailed training data](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Range_Loss_for_ICCV_2017_paper.pdf) | ICCV  | 2017 | `RL`     |       | 
+[Class rectification hard mining for imbalanced deep learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Class_Rectification_Hard_ICCV_2017_paper.pdf) | ICCV  | 2017 | `RL`     |       | 
 
 ### 2016
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[LMLE]() | CVPR  | 2016 | `Sampling`,`RL`     |       | 
-[HFL]() | CVPR  | 2016 | `CSL`,`RL`     |       | 
+[Learning deep representation for imbalanced classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf) | CVPR  | 2016 | `Sampling`,`RL`     |       | 
+[Factors in finetuning deep model for object detection with long-tail distribution](https://openaccess.thecvf.com/content_cvpr_2016/papers/Ouyang_Factors_in_Finetuning_CVPR_2016_paper.pdf) | CVPR  | 2016 | `CSL`,`RL`     |       | 
 
 ## Citing this work 
 
