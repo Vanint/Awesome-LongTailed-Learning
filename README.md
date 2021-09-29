@@ -117,6 +117,20 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [Learning deep representation for imbalanced classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf) | CVPR  | 2016 | `Sampling`,`RL`     |       | 
 [Factors in finetuning deep model for object detection with long-tail distribution](https://openaccess.thecvf.com/content_cvpr_2016/papers/Ouyang_Factors_in_Finetuning_CVPR_2016_paper.pdf) | CVPR  | 2016 | `CSL`,`RL`     |       | 
 
+## Datasets
+| Dataset    | Long-tailed Task    | # Class | # Training data      | # Test data       | 
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| ImageNet-LT   |  Classification     | 1,000 | 115,846      | 50,000       | 
+| CIFAR100-LT   |   Classification     | 100 | 50,000      | 10,000       | 
+| Places-LT   |   Classification     | 365 | 625,000      | 36,500       | 
+| iNaturalist 2018   |   Classification     | 8,142 | 437,513     | 24,426       | 
+| LVIS v0.5   | Detection and Segmentation     | 1,230 | 57,000     | 20,000      | 
+| LVIS v1   | Detection and Segmentation     | 1,203 | 100,000     | 19,800      | 
+|  VOC-LT   | Multi-label Classification     | 20 | 1,142     |  4,952      | 
+|  COCO-LT   | Multi-label Classification     | 80 | 1,909     |  5,000      | 
+|  VideoLT   | Video Classification     | 1,004 | 179,352     |  25,622      | 
+
+
 ## Citing this work 
 
 If this repository is helpful to you, please cite our survey.
