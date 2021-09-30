@@ -8,7 +8,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 <img src="resources/Taxonomy.png" width=800>
 </p>
 
-## Type of Long-tailed Learning
+## 1. Type of Long-tailed Learning
 
 | Symbol    | `Sampling`          | `CSL`           | `LA`                   | `TL`                 | `Aug`                  | 
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
@@ -18,7 +18,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
 | Type | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other Types | 
 
-## Papers
+## 2. Top-tier Conference Papers
 
 ### 2021
 
@@ -117,7 +117,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [Learning deep representation for imbalanced classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf) | CVPR  | 2016 | `Sampling`,`RL`     |       | 
 [Factors in finetuning deep model for object detection with long-tail distribution](https://openaccess.thecvf.com/content_cvpr_2016/papers/Ouyang_Factors_in_Finetuning_CVPR_2016_paper.pdf) | CVPR  | 2016 | `CSL`,`RL`     |       | 
 
-## Datasets
+## 3. Benchmark Datasets
 | Dataset    | Long-tailed Task    | # Class | # Training data      | # Test data       | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | ImageNet-LT   |  Classification     | 1,000 | 115,846      | 50,000       | 
@@ -129,6 +129,43 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 |  VOC-LT   | Multi-label Classification     | 20 | 1,142     |  4,952      | 
 |  COCO-LT   | Multi-label Classification     | 80 | 1,909     |  5,000      | 
 |  VideoLT   | Video Classification     | 1,004 | 179,352     |  25,622      | 
+
+## 4. Empirical Studies
+
+### (1) Long-tailed benchmarking performance
+
+* We evaluate several stage-of-the-art methods on ImageNet-LT to see to what extend they handle class imbalance via new evaluation metrics, i.e., UA (upper bound accuracy) and RA (relative accuracy). We categorize these methods based on class re-balancing (CR), information augmentation (IA) and module improvement (MI). 
+
+<p align="center">
+<img src="resources/Fig1.png" width=900>
+</p>
+
+* Almost all long-tailed methods perform better than the Softmax baseline in terms of accuracy, which demonstrates the effectiveness of long-tailed learning. 
+* Training with 200 epochs   leads to better performance for most long-tailed methods, since sufficient  training enables deep models to fit data better and learn better image representations.
+* In addition to accuracy, we also evaluate long-tailed  methods based on UA and RA. For the methods that have higher  UA, the performance gain  comes  not only  from the alleviation of class imbalance, but also from other factors, like data augmentation or better network architectures. Therefore, simply using accuracy for evaluation is not accurate enough, while  our proposed RA metric provides a good complement, since it alleviates the influences of factors apart from class imbalance. 
+* For example, MiSLAS, based on data mixup, has higher accuracy than Balanced Sofmtax under 90 training epochs, but it also has higher UA. As a result, the relative accuracy of  MiSLAS is lower than Balanced Sofmtax, which means that Balanced Sofmtax alleviates class imbalance better than MiSLAS under 90 training epochs.
+* Although some recent high-accuracy methods   have  lower RA, the overall development trend of long-tailed learning is still positive, as shown in the below figure.
+
+
+
+ 
+
+
+<p align="center">
+<img src="resources/Fig2.png" width=900>
+</p>
+
+* The current state-of-the-art long-tailed   method in terms of both accuracy and RA is TADE (ensemble-based method). 
+
+### (2) More discussions on cost-sensitive losses
+
+* We further evaluate the performance of different cost-sensitive learning losses based on the decoupled training scheme.
+* Decoupled training, compared to joint training, can further improve  the   overall performance  of most cost-sensitive learning methods apart from balanced softmax (BS).
+* Although BS outperofmrs other cost-sensitive losses under one-stage training, they perform comparably under decoupled training. This implies that although these cost-sensitive losses perform differently under joint training, they essentially learn similar  quality of feature representations. 
+
+<p align="center">
+<img src="resources/Fig3.png" width=500>
+</p>
 
 
 ## Citing this work 
@@ -144,7 +181,7 @@ If this repository is helpful to you, please cite our survey.
 }
 ```
 
-## Other Resources
+## 5. Other Resources
 
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 - [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
