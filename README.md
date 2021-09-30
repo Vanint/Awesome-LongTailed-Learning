@@ -2,7 +2,7 @@
 
 A curated list of awesome deep long-tailed learning resources.
 
-Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community. In this survey, we reviewed recent advances of long-tailed learning based on deep neural networks. To be specific, existing deep long-tailed learning studies can be grouped into three main categories (i.e., class re-balancing, information augmentation and module improvement), which can be further classified into nine sub-categories (as shown in below figure). We also empirically analyzeed several state-of-the-art methods by evaluating to what extent they address the issue of class imbalance. We concluded the survey by highlighting important applications of deep long-tailed learning and identifying several promising directions for future research. After completing this survey, we decided to release the collected long-tailed learning resources, hoping to push the development of the community. We will keep updating our survey and this repository. If you have any questions or suggestions, please feel free to contact us.
+Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community. In this survey, we reviewed recent advances in long-tailed learning based on deep neural networks. Existing deep long-tailed learning studies can be grouped into three main categories (i.e., class re-balancing, information augmentation and module improvement), which can be further classified into nine sub-categories (as shown in the below figure). We also empirically analyzed several state-of-the-art methods by evaluating to what extent they address the issue of class imbalance. We concluded the survey by highlighting important applications of deep long-tailed learning and identifying several promising directions for future research. After completing this survey, we decided to release the collected long-tailed learning resources, hoping to push the development of the community. We will keep updating our survey and this repository. If you have any questions or suggestions, please feel free to contact us.
 
 <p align="center">
 <img src="resources/Taxonomy.png" width=800>
@@ -134,7 +134,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 
 ### (1) Long-tailed benchmarking performance
 
-* We evaluate several stage-of-the-art methods on ImageNet-LT to see to what extend they handle class imbalance via new evaluation metrics, i.e., UA (upper bound accuracy) and RA (relative accuracy). We categorize these methods based on class re-balancing (CR), information augmentation (IA) and module improvement (MI). 
+* We evaluate several state-of-the-art methods on ImageNet-LT to see to what extent they handle class imbalance via new evaluation metrics, i.e., UA (upper bound accuracy) and RA (relative accuracy). We categorize these methods based on class re-balancing (CR), information augmentation (IA) and module improvement (MI). 
 
 <p align="center">
 <img src="resources/Fig1.png" width=900>
