@@ -168,7 +168,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 </p>
 
 
-## Citing this work 
+## 5. Citation
 
 If this repository is helpful to you, please cite our survey.
 
