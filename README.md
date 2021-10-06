@@ -122,7 +122,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | ImageNet-LT   |  Classification     | 1,000 | 115,846      | 50,000       | 
 | CIFAR100-LT   |   Classification     | 100 | 50,000      | 10,000       | 
-| Places-LT   |   Classification     | 365 | 625,000      | 36,500       | 
+| Places-LT   |   Classification     | 365 | 62,500      | 36,500       | 
 | iNaturalist 2018   |   Classification     | 8,142 | 437,513     | 24,426       | 
 | LVIS v0.5   | Detection and Segmentation     | 1,230 | 57,000     | 20,000      | 
 | LVIS v1   | Detection and Segmentation     | 1,203 | 100,000     | 19,800      | 
