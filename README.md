@@ -29,6 +29,7 @@ Recently, we released *[Deep Long-Tailed Learning: A Survey]()* to the community
 [GistNet: a geometric structure transfer network for long-tailed recognition](https://arxiv.org/pdf/2105.00131.pdf) | ICCV  | 2021 | `Sampling`,`TL`, `DC`      |       |  
 [FASA: Feature augmentation and sampling adaptation for long-tailed instance segmentation](https://arxiv.org/pdf/2102.12867.pdf) | ICCV  | 2021 | `Sampling`,`CSL`     |       |  
 [ACE: Ally complementary experts for solving long-tailed recognition in one-shot](https://arxiv.org/pdf/2108.02385.pdf) | ICCV  | 2021 | `Sampling`,`Ensemble`     |   [Official](https://github.com/jrcai/ACE?utm_source=catalyzex.com)     |  
+[Influence-Balanced Loss for Imbalanced Visual Classification](https://arxiv.org/pdf/2110.02444.pdf) | ICCV  | 2021 | `CSL`     |   [Official](https://github.com/pseulki/IB-Loss)     |  
 [Re-distributing biased pseudo labels for semi-supervised semantic segmentation: A baseline investigation](https://arxiv.org/pdf/2107.11279.pdf) | ICCV  | 2021 | `TL`     |    [Official](https://github.com/CVMI-Lab/DARS)   |  
 [Self supervision to distillation for long-tailed visual recognition](https://arxiv.org/pdf/2109.04075.pdf) | ICCV  | 2021 | `TL`     |    [Official](https://github.com/MCG-NJU/SSD-LT)     |  
 [Distilling virtual examples for long-tailed recognition](https://cs.nju.edu.cn/wujx/paper/ICCV2021_DiVE.pdf) | ICCV  | 2021 | `TL`     |       |  
