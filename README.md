@@ -64,7 +64,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 [Exploring balanced feature spaces for representation learning](https://openreview.net/pdf?id=OqtLIabPTit) | ICLR  | 2021 | `RL`,`DT`  |       |  
 
 ### 2020
-
+ 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Balanced meta-softmax for long-taield visual recognition](https://proceedings.neurips.cc/paper/2020/file/2ba61cc3a8f44143e1f2f13b2b729ab3-Paper.pdf) | NeurIPS  | 2020 | `Sampling`,`CSL`     |       [Official](https://github.com/jiawei-ren/BalancedMetaSoftmax)   | 
