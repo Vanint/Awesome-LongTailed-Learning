@@ -15,8 +15,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 | Type | Re-sampling | Cost-sensitive Learning | Logit Adjustment | Transfer Learning | Data Augmentation | 
 
 | Symbol    | `RL`          | `CD`           | `DT`                   | `Ensemble`                 | `other`                  | 
-|:----------- |:-------------:|:--------------:|:----------------------: |:-------
---------------:|:----------------------:| 
+|:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:| 
 | Type | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other Types | 
 
 ## 2. Top-tier Conference Papers
