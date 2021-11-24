@@ -29,6 +29,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 [On model calibration for long-tailed object detection and instance segmentation](https://proceedings.neurips.cc/paper/2021/file/14ad095ecc1c3e1b87f3c522836e9158-Paper.pdf) | NeurIPS  | 2021 |  `LA`   |    [Official](https://github.com/tydpan/NorCal)    | 
 [Label-imbalanced and group-sensitive classification under overparameterization](https://openreview.net/pdf?id=UZm2IQhgIyB) | NeurIPS  | 2021 |  `LA`   |    
 [Towards calibrated model for long-tailed visual recognition from prior perspective](https://papers.nips.cc/paper/2021/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Paper.pdf) |  NeurIPS  | 2021 |  `Aug`, `RL`   |   [Official](https://github.com/XuZhengzhuo/Prior-LT)
+[percharging imbalanced data learning with energy-based contrastive representation transfer](https://papers.nips.cc/paper/2021/file/b151ce4935a3c2807e1dd9963eda16d8-Paper.pdf) | NeurIPS  | 2021 |  `Aug`, `TL`, `RL`   |  
 [VideoLT: Large-scale long-tailed video recognition](https://arxiv.org/pdf/2105.02668.pdf) | ICCV  | 2021 | `Sampling`     |    [Official](https://github.com/17Skye17/VideoLT)   | 
 [Exploring classification equilibrium in long-tailed object detection](https://arxiv.org/pdf/2108.07507.pdf) | ICCV  | 2021 | `Sampling`,`CSL`     |     [Official](https://github.com/fcjian/LOCE)  |  
 [GistNet: a geometric structure transfer network for long-tailed recognition](https://arxiv.org/pdf/2105.00131.pdf) | ICCV  | 2021 | `Sampling`,`TL`, `DC`      |       |  
