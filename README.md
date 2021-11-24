@@ -26,6 +26,9 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Improving contrastive learning on imbalanced seed data via open-world sampling](https://openreview.net/pdf?id=EIfV-XAggKo) | NeurIPS  | 2021 | `Sampling`,`TL`, `DC`     |    [Official](https://github.com/VITA-Group/MAK)   | 
 [Semi-supervised semantic segmentation via adaptive equalization learning](https://papers.nips.cc/paper/2021/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)  | NeurIPS  | 2021 |  `Sampling`,`CSL`,`TL`, `Aug`    |       [Official](https://github.com/hzhupku/SemiSeg-AEL)    | 
+[On model calibration for long-tailed object detection and instance segmentation](https://proceedings.neurips.cc/paper/2021/file/14ad095ecc1c3e1b87f3c522836e9158-Paper.pdf) | NeurIPS  | 2021 |  `LA`   |    [Official](https://github.com/tydpan/NorCal)    | 
+[Label-imbalanced and group-sensitive classification under overparameterization](https://openreview.net/pdf?id=UZm2IQhgIyB) | NeurIPS  | 2021 |  `LA`   |    
+[Towards calibrated model for long-tailed visual recognition from prior perspective](https://papers.nips.cc/paper/2021/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Paper.pdf) |  NeurIPS  | 2021 |  `LA`   |   [Official](https://github.com/XuZhengzhuo/Prior-LT)
 [VideoLT: Large-scale long-tailed video recognition](https://arxiv.org/pdf/2105.02668.pdf) | ICCV  | 2021 | `Sampling`     |    [Official](https://github.com/17Skye17/VideoLT)   | 
 [Exploring classification equilibrium in long-tailed object detection](https://arxiv.org/pdf/2108.07507.pdf) | ICCV  | 2021 | `Sampling`,`CSL`     |     [Official](https://github.com/fcjian/LOCE)  |  
 [GistNet: a geometric structure transfer network for long-tailed recognition](https://arxiv.org/pdf/2105.00131.pdf) | ICCV  | 2021 | `Sampling`,`TL`, `DC`      |       |  
