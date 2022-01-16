@@ -1,4 +1,6 @@
 # Awesome Long-Tailed Learning 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of awesome deep long-tailed learning resources. We recently released *[Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf)* to the community. In this survey, we reviewed recent advances in long-tailed learning based on deep neural networks. 
 
