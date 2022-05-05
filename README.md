@@ -26,8 +26,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[BatchFormer: Learning to explore sample relationships for robust
-representation learning](https://arxiv.org/pdf/2203.01522.pdf) | CVPR  | 2022 | `TL`, `RL`    |  [Official](https://github.com/zhihou7/BatchFormer)   | 
+[BatchFormer: Learning to explore sample relationships for robust representation learning](https://arxiv.org/pdf/2203.01522.pdf) | CVPR  | 2022 | `TL`, `RL`    |  [Official](https://github.com/zhihou7/BatchFormer)   | 
 [Optimal transport for long-tailed recognition with learnable cost matrix](https://openreview.net/pdf?id=t98k9ePQQpn) | ICLR  | 2022 | `LA`    |     | 
 [Do deep networks transfer invariances across classes?](https://openreview.net/pdf?id=Fn7i_r5rR0q) | ICLR  | 2022 | `TL`, `Aug`  |      [Official](https://github.com/AllanYangZhou/generative-invariance-transfer)  | 
 [Self-supervised learning is more robust to dataset imbalance](https://openreview.net/pdf?id=4AZz9osqrar) | ICLR  | 2022 | `RL`    |   |  
