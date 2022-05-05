@@ -30,6 +30,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 [The majority can help the minority: Context-rich minority oversampling for long-tailed classification](https://arxiv.org/pdf/2112.00412.pdf) | CVPR  | 2022 | `TL`,`Aug`    |  [Official](https://github.com/naver-ai/cmo)   | 
 [Long-tail recognition via compositional knowledge transfer](https://arxiv.org/pdf/2112.06741.pdf) | CVPR  | 2022 | `TL`,`RL`     |  | 
 [BatchFormer: Learning to explore sample relationships for robust representation learning](https://arxiv.org/pdf/2203.01522.pdf) | CVPR  | 2022 | `TL`,`RL`    |  [Official](https://github.com/zhihou7/BatchFormer)   | 
+[Nested collaborative learning for long-tailed visual recognition](https://arxiv.org/pdf/2203.15359.pdf) | CVPR  | 2022 | `RL`,`Ensemble`    |  [Official](https://github.com/Bazinga699/NCL)   |
 [Long-tailed recognition via weight balancing](https://arxiv.org/pdf/2203.14197.pdf) | CVPR  | 2022 | `DT`    |  [Official](https://github.com/ShadeAlsha/LTR-weight-balancing)   | 
 [Class-balanced pixel-level self-labeling for domain adaptive semantic segmentation](https://arxiv.org/pdf/2203.09744.pdf) | CVPR  | 2022 | `other`    |  [Official](https://github.com/lslrh/CPSL)   |
 [Killing two birds with one stone: Efficient and robust training of face recognition CNNs by partial FC](https://arxiv.org/pdf/2203.15565.pdf) | CVPR  | 2022 | `other`    |  [Official](https://github.com/deepinsight/insightface/tree/master/recognition)   |
