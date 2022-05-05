@@ -26,7 +26,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 
 | Title    | Venue    | Year | Type     | Code     | 
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Self-supervised Learning is More Robust to Dataset Imbalance](https://openreview.net/pdf?id=4AZz9osqrar) | ICLR  | 2022 | `TL`    |     | 
+[Self-supervised Learning is More Robust to Dataset Imbalance](https://openreview.net/pdf?id=4AZz9osqrar) | ICLR  | 2022 | `RL`    |     | 
 [Improving contrastive learning on imbalanced seed data via open-world sampling](https://openreview.net/pdf?id=EIfV-XAggKo) | NeurIPS  | 2021 | `Sampling`,`TL`, `DC`     |    [Official](https://github.com/VITA-Group/MAK)   | 
 [Semi-supervised semantic segmentation via adaptive equalization learning](https://papers.nips.cc/paper/2021/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)  | NeurIPS  | 2021 |  `Sampling`,`CSL`,`TL`, `Aug`    |       [Official](https://github.com/hzhupku/SemiSeg-AEL)    | 
 [On model calibration for long-tailed object detection and instance segmentation](https://proceedings.neurips.cc/paper/2021/file/14ad095ecc1c3e1b87f3c522836e9158-Paper.pdf) | NeurIPS  | 2021 |  `LA`   |    [Official](https://github.com/tydpan/NorCal)    | 
