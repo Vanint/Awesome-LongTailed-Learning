@@ -31,6 +31,7 @@ Specifically, existing long-tailed learning studies can be grouped into three ma
 [Long-tail recognition via compositional knowledge transfer](https://arxiv.org/pdf/2112.06741.pdf) | CVPR  | 2022 | `TL`,`RL`     |  | 
 [BatchFormer: Learning to explore sample relationships for robust representation learning](https://arxiv.org/pdf/2203.01522.pdf) | CVPR  | 2022 | `TL`,`RL`    |  [Official](https://github.com/zhihou7/BatchFormer)   | 
 [Long-tailed recognition via weight balancing](https://arxiv.org/pdf/2203.14197.pdf) | CVPR  | 2022 | `DT`    |  [Official](https://github.com/ShadeAlsha/LTR-weight-balancing)   | 
+[Class-balanced pixel-level self-labeling for domain adaptive semantic segmentation](https://arxiv.org/pdf/2203.09744.pdf) | CVPR  | 2022 | `other`    |  [Official](https://github.com/lslrh/CPSL)   |
 [Killing two birds with one stone: Efficient and robust training of face recognition CNNs by partial FC](https://arxiv.org/pdf/2203.15565.pdf) | CVPR  | 2022 | `other`    |  [Official](https://github.com/deepinsight/insightface/tree/master/recognition)   |
 [Optimal transport for long-tailed recognition with learnable cost matrix](https://openreview.net/pdf?id=t98k9ePQQpn) | ICLR  | 2022 | `LA`    |     | 
 [Do deep networks transfer invariances across classes?](https://openreview.net/pdf?id=Fn7i_r5rR0q) | ICLR  | 2022 | `TL`,`Aug`  |      [Official](https://github.com/AllanYangZhou/generative-invariance-transfer)  | 
