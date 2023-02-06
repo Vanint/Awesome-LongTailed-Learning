@@ -1,11 +1,11 @@
-- Awesome Long-Tailed Learning 
+# Awesome Long-Tailed Learning 
 
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
   We released *[Deep Long-Tailed Learning: A Survey](https://arxiv.org/pdf/2110.04596.pdf)* and **our codebase** to the community. In this survey, we reviewed recent advances in long-tailed learning based on deep neural networks. Existing long-tailed learning studies can be grouped into three main categories (i.e., class re-balancing, information augmentation and module improvement), which can be further classified into nine sub-categories (as shown in the below figure). We also provided empirical analysis for several state-of-the-art methods by evaluating to what extent they address the issue of class imbalance. We concluded the survey by highlighting important applications of deep long-tailed learning and identifying several promising directions for future research. 
 
-  After completing this survey, we decided to release the collected long-tailed learning resources, hoping to push the development of the community. If you have any questions or suggestions, please feel free to contact us.
+  After completing this survey, we decided to release our long-tailed learning resources and codebase, hoping to push the development of the community. If you have any questions or suggestions, please feel free to contact us.
 
   
 
