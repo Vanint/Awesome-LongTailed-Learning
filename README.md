@@ -175,7 +175,6 @@
     ```
     data
     └──ImageNet
-        ├── test
         ├── train
         └── val
     ```
