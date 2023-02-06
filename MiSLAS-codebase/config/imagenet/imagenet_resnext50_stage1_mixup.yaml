@@ -1,0 +1,50 @@
+name: imagenet_resnext50_stage1_mixup
+print_freq: 100
+workers: 48
+log_dir: 'logs'
+model_dir: 'ckps'
+
+
+# dataset & model setting
+dataset: 'imagenet'
+data_path: '../data/ImageNet/'
+num_classes: 1000
+imb_factor: null
+backbone: 'resnext50_32x4d_fe'
+resume: ''
+head_class_idx:
+  - 0
+  - 390
+med_class_idx:
+  - 390
+  - 835
+tail_class_idx:
+  - 835
+  - 1000
+
+
+# distributed training
+deterministic: False
+distributed: False
+gpu: null
+world_size: -1
+rank: -1
+dist_url: 'tcp://224.66.41.62:23456'
+dist_backend: 'nccl'
+multiprocessing_distributed: False
+
+
+# Train
+mode: 'stage1'
+lr: 0.1
+batch_size: 256
+weight_decay: 5e-4
+num_epochs: 200
+momentum: 0.9
+cos: True
+mixup: True
+alpha: 0.2
+
+
+
+
