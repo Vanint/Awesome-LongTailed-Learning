@@ -222,6 +222,13 @@
     Training stage 2: CUDA_VISIBLE_DEVICES=0,1,2,3 python3 train_stage2.py --cfg config/imagenet/imagenet_resnext50_stage2_mislas.yaml resume checkpoint_path
     Evalutation: CUDA_VISIBLE_DEVICES=0  python3 eval.py --cfg ./config/imagenet/imagenet_resnext50_stage2_mislas.yaml  resume checkpoint_path_stage2
     ```
+  * ResLT:
+    ```
+    cd ./ResLT-codebase
+    Training: CUDA_VISIBLE_DEVICES=0,1,2,3 bash sh/X50.sh
+    Evalutation: CUDA_VISIBLE_DEVICES=0 bash sh/X50_eval.sh
+    # The test performance can be found in the log file.
+    ```
   * PaCo:
     ```
     cd ./PaCo-codebase
