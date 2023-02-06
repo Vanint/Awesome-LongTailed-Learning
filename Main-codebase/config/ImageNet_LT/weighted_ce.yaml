@@ -1,0 +1,36 @@
+criterions:
+  PerformanceLoss:
+    def_file: ./loss/WeightedSoftmaxLoss.py
+    loss_params: {}
+    optim_params: null 
+last: false
+model_dir: null
+networks:
+  classifier:
+    def_file: ./models/DotProductClassifier.py
+    optim_params: {lr: 0.1, momentum: 0.9, weight_decay: 0.0005}
+    scheduler_params: {coslr: true, endlr: 0.0, gamma: 0.1, step_size: 30}
+    params: {dataset: ImageNet_LT, feat_dim: 2048, num_classes: 1000, stage1_weights: false}
+  feat_model:
+    def_file: ./models/ResNext50Feature.py
+    fix: false
+    optim_params: {lr: 0.1, momentum: 0.9, weight_decay: 0.0005}
+    scheduler_params: {coslr: true, endlr: 0.0, gamma: 0.1, step_size: 30}
+    params: {dataset: ImageNet_LT, dropout: null, stage1_weights: false, use_fc: false}
+shuffle: false
+training_opt:
+  backbone: resnext50
+  batch_size: 256
+  dataset: ImageNet_LT
+  display_step: 10
+  display_grad: False
+  display_grad_step: 10
+  feature_dim: 2048
+  log_dir: ./logs/ImageNet_LT/models/resnext50_cross_entropy_e90
+  log_root: /logs/ImageNet_LT
+  num_classes: 1000
+  num_epochs: 200
+  num_workers: 12
+  open_threshold: 0.1
+  sampler: null
+  sub_dir: models
