@@ -174,7 +174,7 @@
   * ImageNet-LT dataset: please download ImageNet-1K dataset, and put it to the ./data file.
     ```
     data
-    └──ImageNet_LT
+    └──ImageNet
         ├── test
         ├── train
         └── val
