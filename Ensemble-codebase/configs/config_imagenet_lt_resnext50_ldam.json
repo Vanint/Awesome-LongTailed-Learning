@@ -1,0 +1,58 @@
+{
+    "name": "ImageNet_LT_ResNeXt50_LDAM",
+    "n_gpu": 4,
+
+    "arch": {
+        "type": "ResNeXt50Model",
+        "args": {
+            "num_classes": 1000,
+            "reduce_dimension": false, 
+            "num_experts": 1
+        }
+    },
+    "data_loader": {
+        "type": "ImageNetLTDataLoader",
+        "args":{
+            "data_dir": "../data/ImageNet",
+            "batch_size": 256,
+            "shuffle": true,
+            "num_workers": 12
+        }
+    },
+    "optimizer": {
+        "type": "SGD",
+        "args":{
+            "lr": 0.1,
+            "weight_decay": 5e-4,
+            "momentum": 0.9 
+        }
+    }, 
+    "loss": {
+        "type": "LDAMLoss",
+        "args": { 
+            "reweight_epoch": 160
+        }
+    },
+    "metrics": [
+        "accuracy"
+    ],
+    "lr_scheduler": {
+        "type": "CustomLR",
+        "args": {
+            "step1": 120,
+            "step2": 160,
+            "gamma": 0.1,
+            "warmup_epoch": 5
+        }
+    },
+    "trainer": {
+        "epochs": 200,
+
+        "save_dir": "saved/imagenet/ldam",
+        "save_period": 200,
+        "verbosity": 2,
+        
+        "monitor": "max val_accuracy",
+        "tensorboard": false
+    }
+}

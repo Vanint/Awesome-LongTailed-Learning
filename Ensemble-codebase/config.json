@@ -1,0 +1,58 @@
+{
+    "name": "ImageNet_LT_ResNeXt50_SADE",
+    "n_gpu": 2,
+
+    "arch": {
+        "type": "ResNeXt50Model",
+        "args": {
+            "num_classes": 1000,
+            "reduce_dimension": true,
+            "use_norm": true,
+            "returns_feat": true,
+            "num_experts": 3
+        }
+    },
+    "data_loader": {
+        "type": "ImageNetLTDataLoader",
+        "args":{
+            "data_dir": "./data/imagenet",
+            "batch_size": 64,
+            "shuffle": true,
+            "num_workers": 12
+        }
+    },
+    "optimizer": {
+        "type": "SGD",
+        "args":{
+            "lr": 0.025,
+            "weight_decay": 5e-4,
+            "momentum": 0.9,
+            "nesterov": true
+        }
+    },
+    "add_extra_info": true,
+    "loss": {
+        "type": "DiverseExpertLoss",
+        "args":{
+             "tau": 2
+        }
+    },
+    "metrics": [
+        "accuracy"
+    ],
+    "lr_scheduler": {
+        "type": "CosineAnnealingLR",
+        "args": {
+            "T_max": 100,
+            "eta_min": 0
+        }
+    },
+    "trainer": {
+        "epochs": 180,
+        "save_dir": "saved/imagenet/sade_e180_inv2_bs64_lr0.025",
+        "save_period": 180,
+        "verbosity": 2,
+        "monitor": "max val_accuracy",
+        "tensorboard": false
+    }
+}
