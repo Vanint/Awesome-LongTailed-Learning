@@ -1,0 +1,13 @@
+torch>=1.7
+torchvision>=0.8.0
+numpy
+matplotlib 
+tqdm
+pandas
+tensorboard>=1.14
+pyyaml 
+sklearn 
+h5py 
+tensorboardX
+yacs
+ 
