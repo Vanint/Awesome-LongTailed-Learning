@@ -3,6 +3,7 @@ criterions:
     def_file: ./loss/WeightedSoftmaxLoss.py
     loss_params: {}
     optim_params: null 
+    weight: 1.0
 last: false
 model_dir: null
 networks:
