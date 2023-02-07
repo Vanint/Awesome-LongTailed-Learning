@@ -224,8 +224,8 @@
   * RSG:
     ```
     cd ./RSG-codebase
-    Training: CUDA_VISIBLE_DEVICES=0,1,2,3 python3 imagenet_lt_train.py 
-    Evalutation: CUDA_VISIBLE_DEVICES=0,1,2,3 python3 imagenet_lt_test.py 
+    Training: python3 imagenet_lt_train.py 
+    Evalutation: python3 imagenet_lt_test.py 
     ```
   * ResLT:
     ```
