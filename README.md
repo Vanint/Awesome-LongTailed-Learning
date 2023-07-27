@@ -306,11 +306,12 @@
   If this repository is helpful to you, please cite our survey.
 
   ```
-  @article{zhang2021deep,
-    title={Deep long-tailed learning: A survey},
-    author={Zhang, Yifan and Kang, Bingyi and Hooi, Bryan and Yan, Shuicheng and Feng, Jiashi},
-    journal={arXiv preprint arXiv:2110.04596},
-    year={2021}
+  @article{zhang2023deep,
+  title={Deep long-tailed learning: A survey},
+  author={Zhang, Yifan and Kang, Bingyi and Hooi, Bryan and Yan, Shuicheng and Feng, Jiashi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
   }
   ```
 
