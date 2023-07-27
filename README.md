@@ -18,7 +18,7 @@
 
   | Symbol | `Sampling`  |          `CSL`          |       `LA`       |       `TL`        |       `Aug`       |
   | :----- | :---------: | :---------------------: | :--------------: | :---------------: | :---------------: |
-  | Type   | Re-sampling | Cost-sensitive Learning | Logit Adjustment | Transfer Learning | Data Augmentation |
+  | Type   | Re-sampling | Class-sensitive Learning | Logit Adjustment | Transfer Learning | Data Augmentation |
 
   | Symbol |          `RL`           |       `CD`        |        `DT`        |    `Ensemble`     |   `other`   |
   | :----- | :---------------------: | :---------------: | :----------------: | :---------------: | :---------: |
@@ -31,6 +31,7 @@
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [Self-Supervised Aggregation of Diverse Experts  for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | NeurIPS | 2022 | `CSL`,`Ensemble` |    [Official](https://github.com/Vanint/SADE-AgnosticLT)     |
+  | [Escaping Saddle Points for Effective Generalization on Class-Imbalanced Data](https://openreview.net/pdf?id=9DYKrsFSU2) | NeurIPS | 2022 | `other` |    [Official](https://github.com/val-iisc/Saddle-LongTail)     |
   | [Do We Really Need a Learnable Classifier at the End of Deep Neural Network?](https://arxiv.org/pdf/2203.09081.pdf) | NeurIPS | 2022 |    `RL`,`CD`     |                                                              |
   | [Relieving long-tailed instance segmentation via pairwise class balance](https://arxiv.org/pdf/2201.02784.pdf) |  CVPR   | 2022 |      `CSL`       |      [Official](https://github.com/megvii-research/PCB)      |
   | [The majority can help the minority: Context-rich minority oversampling for long-tailed classification](https://arxiv.org/pdf/2112.00412.pdf) |  CVPR   | 2022 |    `TL`,`Aug`    |         [Official](https://github.com/naver-ai/cmo)          |
