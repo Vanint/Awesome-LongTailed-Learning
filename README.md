@@ -31,6 +31,7 @@
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [Self-Supervised Aggregation of Diverse Experts  for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | NeurIPS | 2022 | `CSL`,`Ensemble` |    [Official](https://github.com/Vanint/SADE-AgnosticLT)     |
+  | [SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning](https://openreview.net/pdf?id=wUUutywJY6) | NeurIPS | 2022 | `CSL` |    [Official](https://github.com/hbzju/SoLar)     |
   | [Escaping Saddle Points for Effective Generalization on Class-Imbalanced Data](https://openreview.net/pdf?id=9DYKrsFSU2) | NeurIPS | 2022 | `other` |    [Official](https://github.com/val-iisc/Saddle-LongTail)     |
   | [Do We Really Need a Learnable Classifier at the End of Deep Neural Network?](https://arxiv.org/pdf/2203.09081.pdf) | NeurIPS | 2022 |    `RL`,`CD`     |                                                              |
   | [Relieving long-tailed instance segmentation via pairwise class balance](https://arxiv.org/pdf/2201.02784.pdf) |  CVPR   | 2022 |      `CSL`       |      [Official](https://github.com/megvii-research/PCB)      |
