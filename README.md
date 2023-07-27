@@ -30,10 +30,11 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
-  | [Self-Supervised Aggregation of Diverse Experts  for Test-Agnostic Long-Tailed Recognition](https://arxiv.org/pdf/2107.09249.pdf) | NeurIPS | 2022 | `CSL`,`Ensemble` |    [Official](https://github.com/Vanint/SADE-AgnosticLT)     |
+  | [Self-Supervised Aggregation of Diverse Experts  for Test-Agnostic Long-Tailed Recognition](https://openreview.net/pdf?id=m7CmxlpHTiu) | NeurIPS | 2022 | `CSL`,`Ensemble` |    [Official](https://github.com/Vanint/SADE-AgnosticLT)     |
   | [SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning](https://openreview.net/pdf?id=wUUutywJY6) | NeurIPS | 2022 | `CSL` |    [Official](https://github.com/hbzju/SoLar)     |
+  | [Do We Really Need a Learnable Classifier at the End of Deep Neural Network?](https://openreview.net/pdf?id=A6EmxI3_Xc) | NeurIPS | 2022 |    `RL`,`CD`     |                                                              |
+  | [Maximum Class Separation as Inductive Bias in One Matrix](https://openreview.net/pdf?id=MbVS6BuJ3ql) | NeurIPS | 2022 |   `CD`     |         [Official](https://github.com/tkasarla/max-separation-as-inductive-bias)     |                                                       |
   | [Escaping Saddle Points for Effective Generalization on Class-Imbalanced Data](https://openreview.net/pdf?id=9DYKrsFSU2) | NeurIPS | 2022 | `other` |    [Official](https://github.com/val-iisc/Saddle-LongTail)     |
-  | [Do We Really Need a Learnable Classifier at the End of Deep Neural Network?](https://arxiv.org/pdf/2203.09081.pdf) | NeurIPS | 2022 |    `RL`,`CD`     |                                                              |
   | [Relieving long-tailed instance segmentation via pairwise class balance](https://arxiv.org/pdf/2201.02784.pdf) |  CVPR   | 2022 |      `CSL`       |      [Official](https://github.com/megvii-research/PCB)      |
   | [The majority can help the minority: Context-rich minority oversampling for long-tailed classification](https://arxiv.org/pdf/2112.00412.pdf) |  CVPR   | 2022 |    `TL`,`Aug`    |         [Official](https://github.com/naver-ai/cmo)          |
   | [Long-tail recognition via compositional knowledge transfer](https://arxiv.org/pdf/2112.06741.pdf) |  CVPR   | 2022 |    `TL`,`RL`     |                                                              |
