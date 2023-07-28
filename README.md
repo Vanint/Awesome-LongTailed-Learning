@@ -34,6 +34,7 @@
   | [Large language models struggle to learn long-tail knowledge](https://openreview.net/pdf?id=sfdKdeczaw) | ICML | 2023 | `Aug` |        |
   | [Feature directions matter: Long-tailed learning via rotated balanced representation](https://openreview.net/pdf?id=dTgxiMW6wr0) | ICML | 2023 | `RL` |        |
   | [Wrapped Cauchy distributed angular softmax for long-tailed visual recognition](https://proceedings.mlr.press/v202/han23a/han23a.pdf) | ICML | 2023 | `RL`,`CD` |  [Official](https://github.com/boranhan/wcdas_code)        |
+  | [Delving into semantic scale imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | ICLR | 2023 | `CSL`,`RL` |       |
   | [CUDA: Curriculum of data augmentation for long-tailed recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | ICLR | 2023 | `Aug` |  [Official](https://github.com/JianhongBai/COLT)        |
 
 
