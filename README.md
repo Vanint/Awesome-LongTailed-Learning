@@ -30,6 +30,13 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Feature directions matter: Long-tailed learning via rotated balanced representation](https://openreview.net/pdf?id=dTgxiMW6wr0) | ICML | 2023 | `RL` |        |
+
+
+  ### 2022
+
+  | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
+  | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [Self-supervised aggregation of diverse experts for test-agnostic long-tailed recognition](https://openreview.net/pdf?id=m7CmxlpHTiu) | NeurIPS | 2022 | `CSL`,`Ensemble` |    [Official](https://github.com/Vanint/SADE-AgnosticLT)     |
   | [SoLar: Sinkhorn label refinery for imbalanced partial-label learning](https://openreview.net/pdf?id=wUUutywJY6) | NeurIPS | 2022 | `CSL` |    [Official](https://github.com/hbzju/SoLar)     |
   | [Do we really need a learnable classifier at the end of deep neural network?](https://openreview.net/pdf?id=A6EmxI3_Xc) | NeurIPS | 2022 |    `RL`,`CD`     |                                                              |
