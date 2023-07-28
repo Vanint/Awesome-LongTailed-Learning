@@ -39,7 +39,10 @@
   | [Tackling long-tailed category distribution under domain shifts](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830706.pdf) | ECCV | 2022 | `CSL`,`Aug`,`RL` |    [Official](https://github.com/guxiao0822/lt-ds)     |
   | [Learning class-wise visual-linguistic representation for long-tailed visual recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf) | ECCV | 2022 | `TL`,`RL` |    [Official](https://github.com/ChangyaoTian/VL-LTR)     |
   | [SAFA: Sample-adaptive feature augmentation for long-tailed image classification](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840578.pdf) | ECCV | 2022 | `Aug`,`RL` |    | 
-  | [Towards calibrated hyper-sphere representation via distribution overlap coefficient for long-tailed learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840176.pdf) | ECCV | 2022 | `RL`,`CD` |    [Official](https://github.com/SiLangWHL/vMF-OP)     |
+  | [On multi-domain long-tailed recognition, imbalanced domain generalization, and beyond]
+  (https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800054.pdf) | ECCV | 2022 | `RL`|    [Official](https://github.com/YyzHarry/multi-domain-imbalance)     |
+  | [Towards calibrated hyper-sphere representation via distribution overlap coefficient for long-tailed learning]
+  (https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840176.pdf) | ECCV | 2022 | `RL`,`CD` |    [Official](https://github.com/SiLangWHL/vMF-OP)     |
   | [Relieving long-tailed instance segmentation via pairwise class balance](https://arxiv.org/pdf/2201.02784.pdf) |  CVPR   | 2022 |      `CSL`       |      [Official](https://github.com/megvii-research/PCB)      |
   | [The majority can help the minority: Context-rich minority oversampling for long-tailed classification](https://arxiv.org/pdf/2112.00412.pdf) |  CVPR   | 2022 |    `TL`,`Aug`    |         [Official](https://github.com/naver-ai/cmo)          |
   | [Long-tail recognition via compositional knowledge transfer](https://arxiv.org/pdf/2112.06741.pdf) |  CVPR   | 2022 |    `TL`,`RL`     |                                                              |
