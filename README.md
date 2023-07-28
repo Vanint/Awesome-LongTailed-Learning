@@ -7,7 +7,7 @@
 
   After completing this survey, we decided to release our long-tailed learning resources and codebase, hoping to push the development of the community. If you have any questions or suggestions, please feel free to contact us.
 
-  
+   
 
   <p align="center">
   <img src="resources/Taxonomy2.png" width=1000>
