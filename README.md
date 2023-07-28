@@ -30,6 +30,7 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Large language models struggle to learn long-tail knowledge](https://openreview.net/pdf?id=sfdKdeczaw) | ICML | 2023 | `Aug` |        |
   | [Feature directions matter: Long-tailed learning via rotated balanced representation](https://openreview.net/pdf?id=dTgxiMW6wr0) | ICML | 2023 | `RL` |        |
 
 
