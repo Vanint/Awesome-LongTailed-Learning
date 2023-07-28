@@ -38,6 +38,7 @@
   | [Delving into semantic scale imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | ICLR | 2023 | `CSL`,`RL` |       |
   | [INPL: Pseudo-labeling the inliers first for imbalanced semi-supervised learning](https://openreview.net/pdf?id=m6ahb1mpwwX) | ICLR | 2023 | `TL` |       |
   | [CUDA: Curriculum of data augmentation for long-tailed recognition](https://openreview.net/pdf?id=RgUPdudkWlN) | ICLR | 2023 | `Aug` |  [Official](https://github.com/JianhongBai/COLT)        |
+  | [Long-tailed learning requires feature learning](https://openreview.net/pdf?id=S-h1oFv-mq) | ICLR | 2023 | `RL`  |     | 
   | [Decoupled training for long-tailed classification with stochastic representations](https://openreview.net/pdf?id=bcYZwYo-0t) | ICLR | 2023 | `RL`,`DT` |      |
 
 
