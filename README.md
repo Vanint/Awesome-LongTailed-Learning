@@ -34,6 +34,8 @@
   | [Large language models struggle to learn long-tail knowledge](https://openreview.net/pdf?id=sfdKdeczaw) | ICML | 2023 | `Aug` |        |
   | [Feature directions matter: Long-tailed learning via rotated balanced representation](https://openreview.net/pdf?id=dTgxiMW6wr0) | ICML | 2023 | `RL` |        |
   | [Wrapped Cauchy distributed angular softmax for long-tailed visual recognition](https://proceedings.mlr.press/v202/han23a/han23a.pdf) | ICML | 2023 | `RL`,`CD` |  [Official](https://github.com/boranhan/wcdas_code)        |
+  
+  | [On the effectiveness of out-of-distribution data in self-supervised long-tail learning](https://openreview.net/pdf?id=v8JIQdiN9Sh) | ICLR | 2023 | `Sampling`,`TL`,`Aug`  |  [Official](https://github.com/JianhongBai/COLT)        |
   | [Long-tailed partial label learning via dynamic rebalancing](https://openreview.net/pdf?id=sXfWoK4KvSW) | ICLR | 2023 | `CSL`  |  [Official](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)        |
   | [Delving into semantic scale imbalance](https://openreview.net/pdf?id=07tc5kKRIo) | ICLR | 2023 | `CSL`,`RL` |       |
   | [INPL: Pseudo-labeling the inliers first for imbalanced semi-supervised learning](https://openreview.net/pdf?id=m6ahb1mpwwX) | ICLR | 2023 | `TL` |       |
