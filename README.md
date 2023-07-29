@@ -351,11 +351,11 @@
 
   ```
   @article{zhang2023deep,
-  title={Deep long-tailed learning: A survey},
-  author={Zhang, Yifan and Kang, Bingyi and Hooi, Bryan and Yan, Shuicheng and Feng, Jiashi},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2023},
-  publisher={IEEE}
+        title={Deep long-tailed learning: A survey},
+        author={Zhang, Yifan and Kang, Bingyi and Hooi, Bryan and Yan, Shuicheng and Feng, Jiashi},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+        year={2023},
+        publisher={IEEE}
   }
   ```
 
