@@ -32,7 +32,6 @@
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [Long-tailed diffusion models with oriented calibration](https://openreview.net/attachment?id=NW2s5XXwXU&name=pdf) | ICLR | 2024 | `Sampling`,`CSL`,`TL` |       [Official](https://github.com/MediaBrain-SJTU/OC_LT)       |
-  
   | [Kill two birds with one stone: Rethinking data augmentation for deep long-tailed learning](https://openreview.net/attachment?id=RzY9qQHUXy&name=pdf) | ICLR | 2024 | `Aug` |       [Official](https://github.com/pongkun/Code-for-DODA)       |
   | [FedLoGe: Joint local and generic federated learning under long-tailed data](https://openreview.net/attachment?id=V3j5d0GQgH&name=pdf) | ICLR | 2024 | `RL` |       [Official](https://github.com/ZackZikaiXiao/FedLoGe)       |
   | [Learning to reject meets long-tail learning](https://openreview.net/attachment?id=ta26LtNq2r&name=pdf) | ICLR | 2024 | `CD` |      |
