@@ -31,6 +31,9 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Long-tailed diffusion models with oriented calibration](https://openreview.net/attachment?id=NW2s5XXwXU&name=pdf) | ICLR | 2024 | `Sampling`,`CSL`,`TL` |       [Official](https://github.com/MediaBrain-SJTU/OC_LT)       |
+  | [FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data](https://openreview.net/attachment?id=V3j5d0GQgH&name=pdf) | ICLR | 2024 | `RL` |       [Official](https://github.com/ZackZikaiXiao/FedLoGe)       |
+  | [Learning to Reject Meets Long-tail Learning](https://openreview.net/attachment?id=ta26LtNq2r&name=pdf) | ICLR | 2024 | `CD` |      |
   | [Pareto Deep Long-Tailed Recognition: A Conflict-Averse Solution](https://openreview.net/attachment?id=b66P1u0k15&name=pdf) | ICLR | 2024 | `other` |       [Official](https://github.com/zzpustc/PLOT)       |
 
   ### 2023
