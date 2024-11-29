@@ -24,7 +24,7 @@
   | :----- | :---------------------: | :---------------: | :----------------: | :---------------: | :---------: |
   | Type   | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other Types |
 
-  ## 2. Top-tier Conference Papers
+  ## 2. Top-tier Conference Papers (Updated on 2024 December)
 
   ### 2023
 
