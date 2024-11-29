@@ -26,10 +26,17 @@
 
   ## 2. Top-tier Conference Papers (Updated on 2024 November)
 
-  ### 2023
+
+  ### 2024
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Pareto Deep Long-Tailed Recognition: A Conflict-Averse Solution](https://openreview.net/attachment?id=b66P1u0k15&name=pdf) | ICLR | 2024 | `other` |       [Official](https://github.com/zzpustc/PLOT)       |
+
+  ### 2023
+
+  | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
+  | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: | 
   | [How re-sampling helps for long-tail learning?](https://proceedings.neurips.cc/paper_files/paper/2023/file/eeffa70bcbbd43f6bd067edebc6595e8-Paper-Conference.pdf) | NeurIPS | 2023 | `Sampling`,`Aug` |     [Official](https://www.lamda.nju.edu.cn/code_CSA.ashx)        |
   | [Fed-GraB: Federated long-tailed learning with self-adjusting gradient balancer](https://proceedings.neurips.cc/paper_files/paper/2023/file/f4b8ddb9b1aa3cb11462d64a70b84db2-Paper-Conference.pdf) | NeurIPS | 2023 | `CSL` |     [Official](https://github.com/ZackZikaiXiao/FedGraB)        |
   | [Enhancing minority classes by mixing: an adaptative optimal transport approach for long-tailed classification](https://proceedings.neurips.cc/paper_files/paper/2023/file/bdabb5d4262bcfb6a1d529d690a6c82b-Paper-Conference.pdf) | NeurIPS | 2023 | `Aug` |     [Official](https://github.com/JintongGao/Enhancing-Minority-Classes-by-Mixing) |
