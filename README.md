@@ -30,6 +30,7 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [AREA: Adaptive Reweighting via Effective Area for Long-Tailed Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_AREA_Adaptive_Reweighting_via_Effective_Area_for_Long-Tailed_Classification_ICCV_2023_paper.pdf) | ICCV | 2023 | `CSL` |     [Official](https://github.com/xiaohua-chen/AREA)        |
   | [Long-tailed recognition by mutual information maximization between latent features and ground-truth labels](https://openreview.net/pdf?id=KqNX6VOqnJ) | ICML | 2023 | `CSL`,`RL` |     [Official](https://github.com/bluecdm/Long-tailed-recognition)        |
   | [Large language models struggle to learn long-tail knowledge](https://openreview.net/pdf?id=sfdKdeczaw) | ICML | 2023 | `Aug` |        |
   | [Feature directions matter: Long-tailed learning via rotated balanced representation](https://openreview.net/pdf?id=dTgxiMW6wr0) | ICML | 2023 | `RL` |        |
