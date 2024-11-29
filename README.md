@@ -24,15 +24,15 @@
   | :----- | :---------------------: | :---------------: | :----------------: | :---------------: | :---------: |
   | Type   | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other Types |
 
-  ## 2. Top-tier Conference Papers (Updated on 2024 December)
+  ## 2. Top-tier Conference Papers (Updated on 2024 November)
 
   ### 2023
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [Label-Noise Learning with Intrinsically Long-Tailed Data](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.pdf) | ICCV | 2023 | `Sampling` |     [Official](https://github.com/Wakings/TABASCO)        |
-  | [MDCS: More Diverse Experts with Consistency Self-distillation for Long-tailed Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_MDCS_More_Diverse_Experts_with_Consistency_Self-distillation_for_Long-tailed_Recognition_ICCV_2023_paper.pdf) | ICCV | 2023 | `Sampling`，`TL`, `Ensemble` |     [Official](https://github.com/fistyee/MDCS)        |
-  | [Subclass-balancing Contrastive Learning for Long-tailed Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Hou_Subclass-balancing_Contrastive_Learning_for_Long-tailed_Recognition_ICCV_2023_paper.pdf) | ICCV | 2023 | `Sampling`，`RL`|     [Official](https://github.com/JackHck/SBCL)        |
+  | [MDCS: More Diverse Experts with Consistency Self-distillation for Long-tailed Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_MDCS_More_Diverse_Experts_with_Consistency_Self-distillation_for_Long-tailed_Recognition_ICCV_2023_paper.pdf) | ICCV | 2023 | `Sampling`,`TL`,`Ensemble` |     [Official](https://github.com/fistyee/MDCS)        |
+  | [Subclass-balancing Contrastive Learning for Long-tailed Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Hou_Subclass-balancing_Contrastive_Learning_for_Long-tailed_Recognition_ICCV_2023_paper.pdf) | ICCV | 2023 | `Sampling`,`RL`|     [Official](https://github.com/JackHck/SBCL)        |
   | [AREA: Adaptive Reweighting via Effective Area for Long-Tailed Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_AREA_Adaptive_Reweighting_via_Effective_Area_for_Long-Tailed_Classification_ICCV_2023_paper.pdf) | ICCV | 2023 | `CSL` |     [Official](https://github.com/xiaohua-chen/AREA)        |
   | [Reconciling Object-Level and Global-Level Objectives for Long-Tail Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Reconciling_Object-Level_and_Global-Level_Objectives_for_Long-Tail_Detection_ICCV_2023_paper.pdf) | ICCV | 2023 | `CSL` |     [Official](https://github.com/EricZsy/ROG)        |
   | [Local and Global Logit Adjustments for Long-Tailed Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Tao_Local_and_Global_Logit_Adjustments_for_Long-Tailed_Learning_ICCV_2023_paper.pdf) | ICCV | 2023 | `CSL`,`LA`,`Ensemble` |          |
