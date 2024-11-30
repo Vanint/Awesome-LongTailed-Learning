@@ -31,6 +31,7 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Delving into the Trajectory Long-tail Distribution for Muti-object Tracking](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Delving_into_the_Trajectory_Long-tail_Distribution_for_Muti-object_Tracking_CVPR_2024_paper.pdf) | CVPR | 2024 | `Aug`,`CD` |       [Official](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)       |
   | [Long-tailed diffusion models with oriented calibration](https://openreview.net/attachment?id=NW2s5XXwXU&name=pdf) | ICLR | 2024 | `Sampling`,`CSL`,`TL` |       [Official](https://github.com/MediaBrain-SJTU/OC_LT)       |
   | [Kill two birds with one stone: Rethinking data augmentation for deep long-tailed learning](https://openreview.net/attachment?id=RzY9qQHUXy&name=pdf) | ICLR | 2024 | `Aug` |       [Official](https://github.com/pongkun/Code-for-DODA)       |
   | [FedLoGe: Joint local and generic federated learning under long-tailed data](https://openreview.net/attachment?id=V3j5d0GQgH&name=pdf) | ICLR | 2024 | `RL` |       [Official](https://github.com/ZackZikaiXiao/FedLoGe)       |
