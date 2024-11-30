@@ -31,7 +31,7 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
-  | [Taming the long tail in human mobility prediction](https://openreview.net/pdf?id=wT2TIfHKp8) | NeurIPS | 2024 | `Sampling`,`LA` |   [Official](https://github.com/Yukayo/LoTNext)       | 
+  | [Taming the long tail in human mobility prediction](https://openreview.net/pdf?id=wT2TIfHKp8) | NeurIPS | 2024 | `Sampling`,`LA` |      | 
   | [Long-tailed object detection pre-training: dynamic rebalancing contrastive learning with dual reconstruction](https://openreview.net/pdf?id=mGz3Jux9wS) | NeurIPS | 2024 | `Sampling`,`RL` |      | 
   | [AUCSeg: AUC-oriented pixel-level long-tail semantic segmentation](https://openreview.net/pdf/38fa941c480de3259c3508aaf0c968eed971b269.pdf) | NeurIPS | 2024 | `Sampling`,`other` |   [Official](https://github.com/boyuh/AUCSeg)       | 
   | [Continuous contrastive learning for long-tailed semi-supervised recognition](https://openreview.net/pdf?id=PaqJ71zf1M) | NeurIPS | 2024 | `CSL`,`LA`,`RL` |   [Official](https://github.com/zhouzihao11/CCL)       | 
