@@ -31,6 +31,8 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Generative Active Learning for Long-tailed Instance Segmentation](https://openreview.net/pdf?id=ofXRBPtol3) | ICML | 2024 | `Aug` |    |  
+  | [ELTA: An Enhancer against Long-Tail for Aesthetics-oriented Models](https://openreview.net/pdf?id=dhrNfAJAH6) | ICML | 2024 | `Aug` |   [Official](https://github.com/woshidandan/Long-Tail-image-aesthetics-and-quality-assessment)       |  
   | [BEM: Balanced and entropy-based mix for long-tailed semi-supervised learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_BEM_Balanced_and_Entropy-based_Mix_for_Long-Tailed_Semi-Supervised_Learning_CVPR_2024_paper.pdf) | CVPR | 2024 | `CSL`,`TL`,`CD` |  [Official](https://github.com/Zhenghongwei0929/CVPR2024-BEM)         |
   | [DeiT-LT: Distillation strikes back for vision transformer training on long-tailed datasets](https://openaccess.thecvf.com/content/CVPR2024/papers/Rangwani_DeiT-LT_Distillation_Strikes_Back_for_Vision_Transformer_Training_on_Long-Tailed_CVPR_2024_paper.pdf) | CVPR | 2024 | `CSL`,`TL`,`CD` |  [Official](https://github.com/val-iisc/DeiT-LT)         |
   | [Revisiting adversarial training under long-tailed distributions](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Revisiting_Adversarial_Training_Under_Long-Tailed_Distributions_CVPR_2024_paper.pdf) | CVPR | 2024 | `CSL`,`Aug` |  [Official](https://github.com/NISPLab/AT-BSL)         |
