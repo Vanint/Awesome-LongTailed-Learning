@@ -491,7 +491,7 @@ def train(train_loader, model, criterion, optimizer, epoch, scaler, args):
             optimizer.step()
         else:
             scaler.scale(loss).backward()
-            scaler.step(optimier)
+            scaler.step(optimizer)
             scaler.update()
 
 
