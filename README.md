@@ -31,9 +31,15 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Taming the Long Tail in Human Mobility Prediction](https://openreview.net/pdf?id=wT2TIfHKp8) | NeurIPS | 2024 | `Sampling`,`LA` |   [Official](https://github.com/Yukayo/LoTNext)       | 
+  | [Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction](https://openreview.net/pdf?id=mGz3Jux9wS) | NeurIPS | 2024 | `Sampling`,`RL` |      | 
   | [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://openreview.net/pdf/38fa941c480de3259c3508aaf0c968eed971b269.pdf) | NeurIPS | 2024 | `Sampling`,`other` |   [Official](https://github.com/boyuh/AUCSeg)       | 
   | [Continuous Contrastive Learning for Long-Tailed Semi-Supervised Recognition](https://openreview.net/pdf?id=PaqJ71zf1M) | NeurIPS | 2024 | `CSL`,`LA`,`RL` |   [Official](https://github.com/zhouzihao11/CCL)       | 
+  | [Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation](https://openreview.net/pdf?id=cesWi7mMLY) | NeurIPS | 2024 | `LA`  |   [Official](https://github.com/mala-lab/AdaptOD)       | 
   | [DiffuLT: Diffusion for Long-tail RecognitionWithout External Knowledge](https://openreview.net/pdf?id=Kcsj9FGnKR) | NeurIPS | 2024 | `Aug` |      | 
+  | [LLM-AutoDA: Large Language Model-Driven Automatic Data Augmentation for Long-tailed Problems](https://openreview.net/pdf?id=VpuOuZOVhP) | NeurIPS | 2024 | `Aug` |     [Official](https://github.com/DataLab-atom/LLM-LT-AUG)       | 
+  | [Breaking Long-Tailed Learning Bottlenecks: A Controllable Paradigm with Hypernetwork-Generated Diverse Experts](https://openreview.net/pdf?id=WpPNVPAEyv) | NeurIPS | 2024 | `Ensemble` |    [Official](https://github.com/DataLab-atom/PRL)    | 
+  | [Once Read is Enough: Domain-specific Pretraining-free Language Models with Cluster-guided Sparse Experts for Long-tail Domain Knowledge](https://openreview.net/pdf?id=manHbkpIW6) | NeurIPS | 2024 | `Ensemble` |        | 
   | [Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://openreview.net/pdf?id=7lMN6xoBjb) | NeurIPS | 2024 | `other` |   [Official](https://github.com/Keke921/GNM-PT)       | 
   | [Towards Heterogeneous Long-tailed Learning: Benchmarking, Metrics, and Toolbox](https://openreview.net/pdf?id=plIuBfYpXj) | NeurIPS | 2024 | `other` |   [Official](https://github.com/SSSKJ/HeroLT)       |  
   | [What Makes CLIP More Robust to Long-Tailed Pre-Training Data? A Controlled Study for Transferable Insights](https://openreview.net/pdf?id=PcyioHOmjq) | NeurIPS | 2024 | `other` |   [Official](https://github.com/CVMI-Lab/clip-beyond-tail)       |  
