@@ -425,8 +425,4 @@
   - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
   - [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
   - [SADE/Test-Agnostic Long-Tailed Recognition](https://github.com/Vanint/SADE-AgnosticLT)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Vanint/Awesome-LongTailed-Learning&type=Timeline)](https://star-history.com/#Vanint/Awesome-LongTailed-Learning&Timeline)
-  
+ 
