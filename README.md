@@ -32,8 +32,10 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
-  | [A Square Peg in a Square Hole: Meta-Expert for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=h0ZeiDRN8A) | ICML | 2025 |  `RL`,`Ensemble` |        | 
+  | [Rethinking the Bias of Foundation Model under Long-tailed Distribution](https://openreview.net/attachment?id=jSoNlHD9qA&name=pdf) | ICML | 2025 |  `LA`  |        | 
   | [Advancing Personalized Learning with Neural Collapse for Long-Tail Challenge](https://openreview.net/pdf?id=W7phL2sNif) | ICML | 2025 |  `RL` |    [Official](https://github.com/llm4edu/NCAL_ICML2025)    | 
+  | [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://openreview.net/attachment?id=lCk4PZto8T&name=pdf) | ICML | 2025 |  `RL`  |        | 
+  | [A Square Peg in a Square Hole: Meta-Expert for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=h0ZeiDRN8A) | ICML | 2025 |  `RL`,`Ensemble` |        | 
   | [Balancing Model Efficiency and Performance: Adaptive Pruner for Long-tailed Data](https://openreview.net/pdf?id=1d1ssNedLv) | ICML | 2025 |  `other` |    [Official](https://github.com/DataLab-atom/LT-VOTE)    | 
   | [Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount](https://openreview.net/pdf?id=LW55JrLYPg) | ICLR | 2025 | `CSL` |      | 
   | [Rethinking Classifier Re-Training in Long-Tailed Recognition: Label Over-Smooth Can Balance](https://openreview.net/pdf?id=OeKp3AdiVO) | ICLR | 2025 | `LA`,`CD` |      | 
