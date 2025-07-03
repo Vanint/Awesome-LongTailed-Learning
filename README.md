@@ -24,8 +24,15 @@
   | :----- | :---------------------: | :---------------: | :----------------: | :---------------: | :---------: |
   | Type   | Representation Learning | Classifier Design | Decoupled Training | Ensemble Learning | Other Types |
 
-  ## 2. Top-tier Conference Papers (Updated on 2024 November)
+  ## 2. Top-tier Conference Papers (Updated on 2025 June)
 
+
+
+  ### 2025
+
+  | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
+  | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Rethinking Classifier Re-Training in Long-Tailed Recognition: Label Over-Smooth Can Balance](https://openreview.net/pdf?id=OeKp3AdiVO) | ICLR | 2025 | `LA`,`CD` |      | 
 
   ### 2024
 
