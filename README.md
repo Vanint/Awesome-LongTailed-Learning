@@ -32,7 +32,12 @@
 
   | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount](https://openreview.net/pdf?id=LW55JrLYPg) | ICLR | 2025 | `CSL` |      | 
+
   | [Rethinking Classifier Re-Training in Long-Tailed Recognition: Label Over-Smooth Can Balance](https://openreview.net/pdf?id=OeKp3AdiVO) | ICLR | 2025 | `LA`,`CD` |      | 
+  | [Long-tailed Adversarial Training with Self-Distillation](https://openreview.net/pdf?id=vM94dZiqx4) | ICLR | 2025 | `TL`,`other` |      | 
+  | [ConMix: Contrastive Mixup at Representation Level for Long-tailed Deep Clustering](https://openreview.net/pdf?id=3lH8WT0fhu) | ICLR | 2025 | `Aug`,`RL` |    [Official](https://github.com/LZX-001/ConMix)    | 
+  | [Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions](https://openreview.net/pdf?id=GySIAKEwtZ) | ICLR | 2025 | `RL`  |      | 
 
   ### 2024
 
