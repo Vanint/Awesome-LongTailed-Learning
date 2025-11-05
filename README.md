@@ -30,7 +30,7 @@
 
   ### 2025
 
-  | Title                                                        |  Venue  | Year |       Type       |                             Code                             |
+  | Title                  |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [Rethinking the Bias of Foundation Model under Long-tailed Distribution](https://openreview.net/attachment?id=jSoNlHD9qA&name=pdf) | ICML | 2025 |  `LA`  |        | 
   | [Advancing Personalized Learning with Neural Collapse for Long-Tail Challenge](https://openreview.net/pdf?id=W7phL2sNif) | ICML | 2025 |  `RL` |    [Official](https://github.com/llm4edu/NCAL_ICML2025)    | 
