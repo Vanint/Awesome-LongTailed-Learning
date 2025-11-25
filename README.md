@@ -32,6 +32,7 @@
 
   | Title                  |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
+  | [Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Overcoming_Dual_Drift_for_Continual_Long-Tailed_Visual_Question_Answering_ICCV_2025_paper.pdf) | ICCV | 2025 |  `RL`, `CD`  |        | 
   | [Rethinking the Bias of Foundation Model under Long-tailed Distribution](https://openreview.net/attachment?id=jSoNlHD9qA&name=pdf) | ICML | 2025 |  `LA`  |        | 
   | [Advancing Personalized Learning with Neural Collapse for Long-Tail Challenge](https://openreview.net/pdf?id=W7phL2sNif) | ICML | 2025 |  `RL` |    [Official](https://github.com/llm4edu/NCAL_ICML2025)    | 
   | [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://openreview.net/attachment?id=lCk4PZto8T&name=pdf) | ICML | 2025 |  `RL`  |        | 
