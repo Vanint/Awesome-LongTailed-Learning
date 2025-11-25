@@ -32,7 +32,9 @@
 
   | Title                  |  Venue  | Year |       Type       |                             Code                             |
   | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
-  | [Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Overcoming_Dual_Drift_for_Continual_Long-Tailed_Visual_Question_Answering_ICCV_2025_paper.pdf) | ICCV | 2025 |  `RL`, `CD`  |        | 
+  | [You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Yan_You_Are_Your_Own_Best_Teacher_Achieving_Centralized-level_Performance_in_ICCV_2025_paper.pdf) | ICCV | 2025 |  `LA`,`TL`,`RL`  |    [Official](https://github.com/shanss132/FedYoYo)        | 
+  | [Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Category-Specific_Selective_Feature_Enhancement_for_Long-Tailed_Multi-Label_Image_Classification_ICCV_2025_paper.pdf) | ICCV | 2025 |  `RL`  |        | 
+  | [Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Overcoming_Dual_Drift_for_Continual_Long-Tailed_Visual_Question_Answering_ICCV_2025_paper.pdf) | ICCV | 2025 |  `RL`,`CD`  |        | 
   | [Rethinking the Bias of Foundation Model under Long-tailed Distribution](https://openreview.net/attachment?id=jSoNlHD9qA&name=pdf) | ICML | 2025 |  `LA`  |        | 
   | [Advancing Personalized Learning with Neural Collapse for Long-Tail Challenge](https://openreview.net/pdf?id=W7phL2sNif) | ICML | 2025 |  `RL` |    [Official](https://github.com/llm4edu/NCAL_ICML2025)    | 
   | [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://openreview.net/attachment?id=lCk4PZto8T&name=pdf) | ICML | 2025 |  `RL`  |        | 
