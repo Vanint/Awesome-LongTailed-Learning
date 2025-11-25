@@ -31,7 +31,7 @@
   ### 2025
 
   | Title                  |  Venue  | Year |       Type       |                             Code                             |
-  | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: || 
+  | :----------------------------------------------------------- | :-----: | :--: | :--------------: | :----------------------------------------------------------: |
   | [You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Yan_You_Are_Your_Own_Best_Teacher_Achieving_Centralized-level_Performance_in_ICCV_2025_paper.pdf) | ICCV | 2025 |  `LA`,`TL`,`RL`  |    [Official](https://github.com/shanss132/FedYoYo)        | 
   | [Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Park_Generative_Active_Learning_for_Long-tail_Trajectory_Prediction_via_Controllable_Diffusion_ICCV_2025_paper.pdf) | ICCV | 2025 |  `Aug`,`other`  |        
   | [Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Category-Specific_Selective_Feature_Enhancement_for_Long-Tailed_Multi-Label_Image_Classification_ICCV_2025_paper.pdf) | ICCV | 2025 |  `RL`  |        | 
